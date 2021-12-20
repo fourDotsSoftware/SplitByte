@@ -1,0 +1,1721 @@
+﻿<Mappings><Entry OldName="SplitByte.ArgsHelper.FromWindowsExplorer" NewName="A.c155c05210aeda33339988675d0fc0b25.cafc49e73584fbedb59d075b96f5f287a" />
+<Entry OldName="SplitByte.ArgsHelper.Split" NewName="A.c155c05210aeda33339988675d0fc0b25.ce340cbbb73d5e5c690ecc4382284a603" />
+<Entry OldName="SplitByte.ArgsHelper.Join" NewName="A.c155c05210aeda33339988675d0fc0b25.c5d69cde3b926472d45737e9cf2fa08f1" />
+<Entry OldName="SplitByte.ArgsHelper.Splitsize" NewName="A.c155c05210aeda33339988675d0fc0b25.c1cee9a9657e4946c5d9387662bc99d76" />
+<Entry OldName="SplitByte.ArgsHelper.SplitNum" NewName="A.c155c05210aeda33339988675d0fc0b25.cdc754ab33cee456decdda8db524e0f0b" />
+<Entry OldName="SplitByte.ArgsHelper.OutputFolder" NewName="A.c155c05210aeda33339988675d0fc0b25.ce6fceb0acae608159a0047db6a4f9f60" />
+<Entry OldName="SplitByte.ArgsHelper.OutputFilename" NewName="A.c155c05210aeda33339988675d0fc0b25.cb383f8abba295f5d2b93d900103291fe" />
+<Entry OldName="SplitByte.ArgsHelper.Compress" NewName="A.c155c05210aeda33339988675d0fc0b25.cebca4b4332f61adc07a962f0d0339d8a" />
+<Entry OldName="SplitByte.ArgsHelper.Encrypt" NewName="A.c155c05210aeda33339988675d0fc0b25.c7c5da4630d7a67eefe72e189b0fb918c" />
+<Entry OldName="SplitByte.ArgsHelper.EncryptionPassword" NewName="A.c155c05210aeda33339988675d0fc0b25.c52f0c9aeb9ff6ed90d42d3cb6e846810" />
+<Entry OldName="SplitByte.ArgsHelper.Delete" NewName="A.c155c05210aeda33339988675d0fc0b25.c85608354f5adb787b8a479c302818556" />
+<Entry OldName="SplitByte.ArgsHelper.KeepTimestamp" NewName="A.c155c05210aeda33339988675d0fc0b25.c987374cf1ceca122f753d4f34f77c9d0" />
+<Entry OldName="SplitByte.ArgsHelper.SplitFilenamePattern" NewName="A.c155c05210aeda33339988675d0fc0b25.c1aefebad7fd9b2ef35c08f8ff8edfd36" />
+<Entry OldName="SplitByte.ArgsHelper.SplitJoinFile" NewName="A.c155c05210aeda33339988675d0fc0b25.cde1fb26bb92969613e59a7f8c462376a" />
+<Entry OldName="SplitByte.ArgsHelper.Overwrite" NewName="A.c155c05210aeda33339988675d0fc0b25.cc6c2ef06720cc70b1a7dfc72e7b2ac04" />
+<Entry OldName="SplitByte.CheckBoxToolTip.tooltip" NewName="SplitByte.CheckBoxToolTip.cc1ea2573520a0a810b16b746a26c589e" />
+<Entry OldName="SplitByte.CustomForm.LoadComplete" NewName="SplitByte.CustomForm.c46cf65b8e2134df5eda17fef2ff8d339" />
+<Entry OldName="SplitByte.CustomForm.components" NewName="SplitByte.CustomForm.c1bc748698c1cda145e3bd99aafce482f" />
+<Entry OldName="SplitByte.CustomProgressBar.DisplayStyle" NewName="A.c8b5e03f424cc27e6acea4402dc62af80.c6e84e47dbac5c5a7e27bd0f0dbb26d22" />
+<Entry OldName="SplitByte.CustomProgressBar.CustomText" NewName="A.c8b5e03f424cc27e6acea4402dc62af80.cb7876ec7bb831862b5ef76007fd75cc2" />
+<Entry OldName="SplitByte.DownloadSuggestionsHelper.tsiDownloadRoot" NewName="A.c03815956957fd7f983789808b37f2f7f.c5d7927276d65c335d4023bc8790c3d46" />
+<Entry OldName="SplitByte.DownloadSuggestionsHelper.Category" NewName="A.c03815956957fd7f983789808b37f2f7f.cf33d504f88c6db794a9ea5dd769a45a2" />
+<Entry OldName="SplitByte.DownloadSuggestionsHelper.App" NewName="A.c03815956957fd7f983789808b37f2f7f.ccd3f8ff4b9121b6c1ab2f877002df91f" />
+<Entry OldName="SplitByte.DownloadSuggestionsHelper.Url" NewName="A.c03815956957fd7f983789808b37f2f7f.c1f7b84a8c49194dc41009c1a865bcae8" />
+<Entry OldName="SplitByte.frmAbout.components" NewName="SplitByte.frmAbout.c1bc748698c1cda145e3bd99aafce482f" />
+<Entry OldName="SplitByte.frmAbout.lblAbout" NewName="SplitByte.frmAbout.c5042ca91d83e0c715e45d6612b68d8cc" />
+<Entry OldName="SplitByte.frmAbout.btnClose" NewName="SplitByte.frmAbout.c4ed52402d560e577791f5f8f580688a1" />
+<Entry OldName="SplitByte.frmAbout.pictureBox1" NewName="SplitByte.frmAbout.c74694040f51d6a0361ae362da91f266e" />
+<Entry OldName="SplitByte.frmAbout.linkLabel1" NewName="SplitByte.frmAbout.ca69fabd33326ab9f168ce7276c802909" />
+<Entry OldName="SplitByte.frmAbout.label1" NewName="SplitByte.frmAbout.c8344405c7574c70670444194c6542a98" />
+<Entry OldName="SplitByte.frmAbout.label2" NewName="SplitByte.frmAbout.c21d98917cd71c23fb6c1ec94ed1e3c57" />
+<Entry OldName="SplitByte.frmAbout.linkLabel2" NewName="SplitByte.frmAbout.c17680b73e72fa25c07c75382bbe8de26" />
+<Entry OldName="SplitByte.frmAbout.niceLine1" NewName="SplitByte.frmAbout.c4d7ca96ec57577c56fccc4b06c9c656e" />
+<Entry OldName="SplitByte.frmAbout.niceLine3" NewName="SplitByte.frmAbout.c49d898113074a0ce1d61b8078401659e" />
+<Entry OldName="SplitByte.frmAbout.label3" NewName="SplitByte.frmAbout.cb780b2ab8461d8224dc5479901846cfa" />
+<Entry OldName="SplitByte.frmAbout.ullProductWebpage" NewName="SplitByte.frmAbout.c53497c0a2147bef5ff9ae5ac1a1bf28c" />
+<Entry OldName="SplitByte.frmAbout.btnBuy" NewName="SplitByte.frmAbout.c1673fae42d897e179eae8332f065cd8a" />
+<Entry OldName="SplitByte.frmAbout.lblRegistered" NewName="SplitByte.frmAbout.c7862738dc7922cc920cc9d1bfcb09d44" />
+<Entry OldName="SplitByte.frmAbout.btnRegister" NewName="SplitByte.frmAbout.cd1d6515c1332253421728c64344a2638" />
+<Entry OldName="SplitByte.frmAbout.niceLine2" NewName="SplitByte.frmAbout.c629e688ad1bb1bc65381d78d707a0dd8" />
+<Entry OldName="SplitByte.frmAbout.label4" NewName="SplitByte.frmAbout.ceceec03fbb561530ccce46c299e20550" />
+<Entry OldName="SplitByte.frmAbout.lblLicenseKey" NewName="SplitByte.frmAbout.c282c52ccb7343e749a2782ef64f6f496" />
+<Entry OldName="SplitByte.frmAbout.niceLine4" NewName="SplitByte.frmAbout.c5f97fa109cd49091fc7135e4a9a6f07a" />
+<Entry OldName="SplitByte.frmDownloadUpdate._DownloadFile" NewName="SplitByte.frmDownloadUpdate.cf0b95db940119f0fcbe04ee41edecd56" />
+<Entry OldName="SplitByte.frmDownloadUpdate.components" NewName="SplitByte.frmDownloadUpdate.c1bc748698c1cda145e3bd99aafce482f" />
+<Entry OldName="SplitByte.frmDownloadUpdate.pgBar" NewName="SplitByte.frmDownloadUpdate.c8fa95219dcbeb75826cfa11312393c98" />
+<Entry OldName="SplitByte.frmDownloadUpdate.btnCancelDownload" NewName="SplitByte.frmDownloadUpdate.c9525245e7e50d83cf6ae8ee1fdba9d58" />
+<Entry OldName="SplitByte.frmDownloadUpdate.bwDownload" NewName="SplitByte.frmDownloadUpdate.c4ea0babfff4dba58c30185ec3bfa3cf7" />
+<Entry OldName="SplitByte.frmDownloadUpdate.label1" NewName="SplitByte.frmDownloadUpdate.c8344405c7574c70670444194c6542a98" />
+<Entry OldName="SplitByte.frmDownloadUpdate.lblTotalSize" NewName="SplitByte.frmDownloadUpdate.c8ad5229778470c546191fafa16b961bf" />
+<Entry OldName="SplitByte.frmEmail.CurrentFile" NewName="SplitByte.frmEmail.c5f2b57f87b4db92b5579754b8ab897c1" />
+<Entry OldName="SplitByte.frmEmail.err" NewName="SplitByte.frmEmail.ce60e2c13283a39071130929523fa73e7" />
+<Entry OldName="SplitByte.frmEmail.to" NewName="SplitByte.frmEmail.cac954cc04c0937f8bcd4b85e1aa8113c" />
+<Entry OldName="SplitByte.frmEmail.body" NewName="SplitByte.frmEmail.c2b15e565c7d33470a5a52411f73692b4" />
+<Entry OldName="SplitByte.frmEmail.from" NewName="SplitByte.frmEmail.cfd56ab40622c89f0daa7b65d3a6fc75e" />
+<Entry OldName="SplitByte.frmEmail.server" NewName="SplitByte.frmEmail.c616851f6b61aa9dd46921ab736748ed1" />
+<Entry OldName="SplitByte.frmEmail.port" NewName="SplitByte.frmEmail.ccdb1bd1dce67913e215caf661bb59123" />
+<Entry OldName="SplitByte.frmEmail.username" NewName="SplitByte.frmEmail.c245cdb1e6db661e3e70854b556724bd8" />
+<Entry OldName="SplitByte.frmEmail.password" NewName="SplitByte.frmEmail.cf4b09272ab1571fc34961dc1dfc2fcde" />
+<Entry OldName="SplitByte.frmEmail.ssl" NewName="SplitByte.frmEmail.cae943730bfaa64ea1ef59191afac2517" />
+<Entry OldName="SplitByte.frmEmail.interval" NewName="SplitByte.frmEmail.ca9fe6a56d2ebe22a91300efd317b53f6" />
+<Entry OldName="SplitByte.frmEmail.components" NewName="SplitByte.frmEmail.c1bc748698c1cda145e3bd99aafce482f" />
+<Entry OldName="SplitByte.frmEmail.cmbAccountName" NewName="SplitByte.frmEmail.c7bf29177801c314a882e2699f0e4212b" />
+<Entry OldName="SplitByte.frmEmail.btnNewAccount" NewName="SplitByte.frmEmail.c7351a775c1e91b32c59c69650f1481ce" />
+<Entry OldName="SplitByte.frmEmail.label1" NewName="SplitByte.frmEmail.c8344405c7574c70670444194c6542a98" />
+<Entry OldName="SplitByte.frmEmail.cmbTo" NewName="SplitByte.frmEmail.ca5f50f6993c011de70ca1ca972a4a664" />
+<Entry OldName="SplitByte.frmEmail.txtBody" NewName="SplitByte.frmEmail.ca80bcfdc7dc167ba296b63a40de7d07a" />
+<Entry OldName="SplitByte.frmEmail.label2" NewName="SplitByte.frmEmail.c21d98917cd71c23fb6c1ec94ed1e3c57" />
+<Entry OldName="SplitByte.frmEmail.label3" NewName="SplitByte.frmEmail.cb780b2ab8461d8224dc5479901846cfa" />
+<Entry OldName="SplitByte.frmEmail.btnCancel" NewName="SplitByte.frmEmail.c46894ce2b457ae221b8f8ee00b7855dc" />
+<Entry OldName="SplitByte.frmEmail.btnOK" NewName="SplitByte.frmEmail.cc43489df54022088c1b87f8777486dd0" />
+<Entry OldName="SplitByte.frmEmail.progressBar1" NewName="SplitByte.frmEmail.c0097bb68db3180f471675b24d4481794" />
+<Entry OldName="SplitByte.frmEmail.bwSend" NewName="SplitByte.frmEmail.c84b543118d521b20a60ed5ab03e6c84f" />
+<Entry OldName="SplitByte.frmEmail.bwRefresh" NewName="SplitByte.frmEmail.c485befa8d683948277a64dd210163d7b" />
+<Entry OldName="SplitByte.frmEmailAccount.components" NewName="SplitByte.frmEmailAccount.c1bc748698c1cda145e3bd99aafce482f" />
+<Entry OldName="SplitByte.frmEmailAccount.label1" NewName="SplitByte.frmEmailAccount.c8344405c7574c70670444194c6542a98" />
+<Entry OldName="SplitByte.frmEmailAccount.txtAccountName" NewName="SplitByte.frmEmailAccount.c277cb4c821094af7b35ec2d0e13828da" />
+<Entry OldName="SplitByte.frmEmailAccount.txtServer" NewName="SplitByte.frmEmailAccount.c191d59da23438782af0640873246a3f2" />
+<Entry OldName="SplitByte.frmEmailAccount.label2" NewName="SplitByte.frmEmailAccount.c21d98917cd71c23fb6c1ec94ed1e3c57" />
+<Entry OldName="SplitByte.frmEmailAccount.chkSSL" NewName="SplitByte.frmEmailAccount.c1025ff346d218fe649503b0ca2fcd39e" />
+<Entry OldName="SplitByte.frmEmailAccount.label3" NewName="SplitByte.frmEmailAccount.cb780b2ab8461d8224dc5479901846cfa" />
+<Entry OldName="SplitByte.frmEmailAccount.txtPort" NewName="SplitByte.frmEmailAccount.cb4a569d76dca5659841c60414ca8e389" />
+<Entry OldName="SplitByte.frmEmailAccount.txtPassword" NewName="SplitByte.frmEmailAccount.c5e721ad792cd9c2a4eac881e7f790a7a" />
+<Entry OldName="SplitByte.frmEmailAccount.label4" NewName="SplitByte.frmEmailAccount.ceceec03fbb561530ccce46c299e20550" />
+<Entry OldName="SplitByte.frmEmailAccount.txtUsername" NewName="SplitByte.frmEmailAccount.c9c6e617e4340a0a8920941568f492c93" />
+<Entry OldName="SplitByte.frmEmailAccount.label5" NewName="SplitByte.frmEmailAccount.c47ee61e2f62cffcab132d2e4316a3a4e" />
+<Entry OldName="SplitByte.frmEmailAccount.btnCancel" NewName="SplitByte.frmEmailAccount.c46894ce2b457ae221b8f8ee00b7855dc" />
+<Entry OldName="SplitByte.frmEmailAccount.btnOK" NewName="SplitByte.frmEmailAccount.cc43489df54022088c1b87f8777486dd0" />
+<Entry OldName="SplitByte.frmEmailAccount.txtAddress" NewName="SplitByte.frmEmailAccount.ca7ba2d4209ed41a9ba29914a002cba1f" />
+<Entry OldName="SplitByte.frmEmailAccount.label6" NewName="SplitByte.frmEmailAccount.c85732744e44cdaa25e21bbd7f8531ca7" />
+<Entry OldName="SplitByte.frmEmailAccount.txtInterval" NewName="SplitByte.frmEmailAccount.ced945199cbcca5a1c651b1b2168ce814" />
+<Entry OldName="SplitByte.frmEmailAccount.label7" NewName="SplitByte.frmEmailAccount.ca37fb14247009286f68f2208539c5db3" />
+<Entry OldName="SplitByte.frmEncryptionPassword.components" NewName="SplitByte.frmEncryptionPassword.c1bc748698c1cda145e3bd99aafce482f" />
+<Entry OldName="SplitByte.frmEncryptionPassword.btnOK" NewName="SplitByte.frmEncryptionPassword.cc43489df54022088c1b87f8777486dd0" />
+<Entry OldName="SplitByte.frmEncryptionPassword.btnCancel" NewName="SplitByte.frmEncryptionPassword.c46894ce2b457ae221b8f8ee00b7855dc" />
+<Entry OldName="SplitByte.frmEncryptionPassword.chkShowPassword" NewName="SplitByte.frmEncryptionPassword.c8f5ac758156c43c4a1faa911abb57e0d" />
+<Entry OldName="SplitByte.frmEncryptionPassword.label1" NewName="SplitByte.frmEncryptionPassword.c8344405c7574c70670444194c6542a98" />
+<Entry OldName="SplitByte.frmLanguage.components" NewName="SplitByte.frmLanguage.c1bc748698c1cda145e3bd99aafce482f" />
+<Entry OldName="SplitByte.frmLanguage.label1" NewName="SplitByte.frmLanguage.c8344405c7574c70670444194c6542a98" />
+<Entry OldName="SplitByte.frmLanguage.cmbLanguage" NewName="SplitByte.frmLanguage.c24f0a4cb80bb5aca3e915b4330836d80" />
+<Entry OldName="SplitByte.frmLanguage.btnOK" NewName="SplitByte.frmLanguage.cc43489df54022088c1b87f8777486dd0" />
+<Entry OldName="SplitByte.frmMain.CmbCustomInd" NewName="SplitByte.frmMain.cbe91265c32c1316106af9d049e9257e6" />
+<Entry OldName="SplitByte.frmMain.splitfile" NewName="SplitByte.frmMain.cf8221bc720cd2cc56dd0c0e6d649d5e5" />
+<Entry OldName="SplitByte.frmMain.chunksize" NewName="SplitByte.frmMain.ce6ba000cc54ee232c1b860a9f0ea761c" />
+<Entry OldName="SplitByte.frmMain.splitfolder" NewName="SplitByte.frmMain.c0e8d0638c94ca724b33300c372166b85" />
+<Entry OldName="SplitByte.frmMain.splitfnind" NewName="SplitByte.frmMain.c3371d41fbae87465ba6b38d59a7bc9ac" />
+<Entry OldName="SplitByte.frmMain.split_keep_timestamp" NewName="SplitByte.frmMain.c02de5be75f19a640ea0a3a1fca618ab8" />
+<Entry OldName="SplitByte.frmMain.split_delete_afterwards" NewName="SplitByte.frmMain.cbdea21429982a9b2a1306d791e2424ad" />
+<Entry OldName="SplitByte.frmMain.split_dtcreated" NewName="SplitByte.frmMain.cdea6cd09ee3dff0f36388f082ef0774d" />
+<Entry OldName="SplitByte.frmMain.split_dtupdated" NewName="SplitByte.frmMain.c2977db8d44092dc43ef8f6f61730c8fd" />
+<Entry OldName="SplitByte.frmMain.split_equal_parts" NewName="SplitByte.frmMain.c8c2a1b66316679b1e1e8ef9eee79ea27" />
+<Entry OldName="SplitByte.frmMain.split_equal_parts_num" NewName="SplitByte.frmMain.cf091a56e72d07d58352e434e8f427dc9" />
+<Entry OldName="SplitByte.frmMain.split_compress" NewName="SplitByte.frmMain.c45ccab805197301efb741901ac5ba186" />
+<Entry OldName="SplitByte.frmMain.split_encrypt" NewName="SplitByte.frmMain.cfc30d0de8c083286070f5cb3f50f127b" />
+<Entry OldName="SplitByte.frmMain.split_encryption_password" NewName="SplitByte.frmMain.cea063d20b58435157f78be00ccfa6425" />
+<Entry OldName="SplitByte.frmMain.join_delete_files" NewName="SplitByte.frmMain.c36c494ddbfda6c7378640ec7faa46b8d" />
+<Entry OldName="SplitByte.frmMain.join_keeptimestamp" NewName="SplitByte.frmMain.cd3ea0a99496697b74ddb45f5b01c2deb" />
+<Entry OldName="SplitByte.frmMain.join_files" NewName="SplitByte.frmMain.c2a5a28b1432fd425adf3d4d71a52f0d9" />
+<Entry OldName="SplitByte.frmMain.join_explicit_files" NewName="SplitByte.frmMain.c71a513a3091aadc778632e7c902f2d7b" />
+<Entry OldName="SplitByte.frmMain.join_output_file" NewName="SplitByte.frmMain.cd0acced970d55bc8c8c8e6183903bbc7" />
+<Entry OldName="SplitByte.frmMain.IsDragging" NewName="SplitByte.frmMain.c7b9503245738ff46af51c58e5fd7e9fe" />
+<Entry OldName="SplitByte.frmMain.InKeyUp" NewName="SplitByte.frmMain.c2d451bce2e78b239353b270e9e501ea4" />
+<Entry OldName="SplitByte.frmMain.SetResultMD5" NewName="SplitByte.frmMain.c8de50f6f0ba6f2ff21d8c48dd1525ec7" />
+<Entry OldName="SplitByte.frmMain.TickCount" NewName="SplitByte.frmMain.c51b83037e2e8726d673d37bd75fd492f" />
+<Entry OldName="SplitByte.frmMain.components" NewName="SplitByte.frmMain.c1bc748698c1cda145e3bd99aafce482f" />
+<Entry OldName="SplitByte.frmMain.tabControl1" NewName="SplitByte.frmMain.c76f3dccd1f518ad7f396035fac90507f" />
+<Entry OldName="SplitByte.frmMain.tabPage1" NewName="SplitByte.frmMain.c8afaa6f123eef2d44b53f1341bb44558" />
+<Entry OldName="SplitByte.frmMain.label2" NewName="SplitByte.frmMain.c21d98917cd71c23fb6c1ec94ed1e3c57" />
+<Entry OldName="SplitByte.frmMain.btnBrowseSplitFile" NewName="SplitByte.frmMain.c971edcc2deac1850e9f49ccd70624d28" />
+<Entry OldName="SplitByte.frmMain.label1" NewName="SplitByte.frmMain.c8344405c7574c70670444194c6542a98" />
+<Entry OldName="SplitByte.frmMain.tabPage2" NewName="SplitByte.frmMain.c71a2403225b8aa84566aaffc30af4134" />
+<Entry OldName="SplitByte.frmMain.cmbSplitSize" NewName="SplitByte.frmMain.c08c0e2a13596606902f927da3455cfe7" />
+<Entry OldName="SplitByte.frmMain.label3" NewName="SplitByte.frmMain.cb780b2ab8461d8224dc5479901846cfa" />
+<Entry OldName="SplitByte.frmMain.nudEqualParts" NewName="SplitByte.frmMain.cd5a1661e9dba755ec3d9727104023920" />
+<Entry OldName="SplitByte.frmMain.btnBrowseOutputFolder" NewName="SplitByte.frmMain.c83e96dcd49d0267adb650aae15ab671d" />
+<Entry OldName="SplitByte.frmMain.cmbSplitSizeType" NewName="SplitByte.frmMain.c9c4ba1e1c18bdbdb9f2578be003b0326" />
+<Entry OldName="SplitByte.frmMain.chkSplitCompress" NewName="SplitByte.frmMain.c614708ea266e099d52d5f4c86eab3fc9" />
+<Entry OldName="SplitByte.frmMain.chkSplitEncrypt" NewName="SplitByte.frmMain.c6af6c14d845f114266e5f61fbf3ea891" />
+<Entry OldName="SplitByte.frmMain.chkSplitDelete" NewName="SplitByte.frmMain.c6de8dbee996d703e829c61dcf485541d" />
+<Entry OldName="SplitByte.frmMain.chkSplitTimestamp" NewName="SplitByte.frmMain.c4bc23a14bcdf94ae9458e0a4c6a0e541" />
+<Entry OldName="SplitByte.frmMain.openFileDialog1" NewName="SplitByte.frmMain.cbd68d734b12d43dbd9a62f91c6bb955f" />
+<Entry OldName="SplitByte.frmMain.folderBrowserDialog1" NewName="SplitByte.frmMain.c6f66ece26b3dd034a94f7238c6c4deb9" />
+<Entry OldName="SplitByte.frmMain.progressBar1" NewName="SplitByte.frmMain.c0097bb68db3180f471675b24d4481794" />
+<Entry OldName="SplitByte.frmMain.btnSplit" NewName="SplitByte.frmMain.c4537181dde7efd2afd515cce048b15e7" />
+<Entry OldName="SplitByte.frmMain.groupBox1" NewName="SplitByte.frmMain.cbf855b156116806090db04fc9f2b860e" />
+<Entry OldName="SplitByte.frmMain.label4" NewName="SplitByte.frmMain.ceceec03fbb561530ccce46c299e20550" />
+<Entry OldName="SplitByte.frmMain.cmbSplitFnPattern" NewName="SplitByte.frmMain.c8e42dc79d5f32e83960925c302768dcd" />
+<Entry OldName="SplitByte.frmMain.groupBox3" NewName="SplitByte.frmMain.c50b6090277c61efe03a937d001522605" />
+<Entry OldName="SplitByte.frmMain.chkJoinTimeStamp" NewName="SplitByte.frmMain.c8c71c4eb9c3cc0202dbf302ae79513f9" />
+<Entry OldName="SplitByte.frmMain.chkJoinDelete" NewName="SplitByte.frmMain.c96d75dd860b8878cb82770d459a28739" />
+<Entry OldName="SplitByte.frmMain.cmbSplitInputFile" NewName="SplitByte.frmMain.c0b7dfb454010501152ccaed02f1e8ff1" />
+<Entry OldName="SplitByte.frmMain.cmbSplitOutputFolder" NewName="SplitByte.frmMain.cb464df2de70b5f20866d263b6b9305fa" />
+<Entry OldName="SplitByte.frmMain.btnJoinBrowseOutputFile" NewName="SplitByte.frmMain.c510612c9b2a022c392d98ed57001387d" />
+<Entry OldName="SplitByte.frmMain.cmbJoinFirstPart" NewName="SplitByte.frmMain.c5087162d340b91fc930f9ef4a463cbff" />
+<Entry OldName="SplitByte.frmMain.cmbJoinOutputFile" NewName="SplitByte.frmMain.c0f07956fb34316459d5bb7ea656707b1" />
+<Entry OldName="SplitByte.frmMain.label5" NewName="SplitByte.frmMain.c47ee61e2f62cffcab132d2e4316a3a4e" />
+<Entry OldName="SplitByte.frmMain.btnJoinFirstPartBrowse" NewName="SplitByte.frmMain.c12c8a847b5a51a498ba1036d2fbe012b" />
+<Entry OldName="SplitByte.frmMain.label6" NewName="SplitByte.frmMain.c85732744e44cdaa25e21bbd7f8531ca7" />
+<Entry OldName="SplitByte.frmMain.tabPage3" NewName="SplitByte.frmMain.c5eea1e55123b520c04e37bc65ff42951" />
+<Entry OldName="SplitByte.frmMain.btnMD5Copy" NewName="SplitByte.frmMain.c28adbd524fd5c45c84d43f6652c50798" />
+<Entry OldName="SplitByte.frmMain.cmbMD5Signature" NewName="SplitByte.frmMain.c42c04661142b311fccaa89715ac3b124" />
+<Entry OldName="SplitByte.frmMain.label8" NewName="SplitByte.frmMain.c8f975ad31ef900d6ec399d0a95fa54ae" />
+<Entry OldName="SplitByte.frmMain.cmbMD5InputFile" NewName="SplitByte.frmMain.cbce3633f730338c56c24540e51906327" />
+<Entry OldName="SplitByte.frmMain.btnMD5InputFileBrowse" NewName="SplitByte.frmMain.cdab62ed83c0b71b039f22214ab928d01" />
+<Entry OldName="SplitByte.frmMain.label7" NewName="SplitByte.frmMain.ca37fb14247009286f68f2208539c5db3" />
+<Entry OldName="SplitByte.frmMain.chkJoinSpecifyFiles" NewName="SplitByte.frmMain.c7c962f64462aafa426f2033304597b5d" />
+<Entry OldName="SplitByte.frmMain.menuStrip1" NewName="SplitByte.frmMain.c089cfc882b6219c7871a22ae1540be1f" />
+<Entry OldName="SplitByte.frmMain.fileToolStripMenuItem" NewName="SplitByte.frmMain.cacb788ffa9761a42af7cc4b3e839d2e0" />
+<Entry OldName="SplitByte.frmMain.exitToolStripMenuItem" NewName="SplitByte.frmMain.ce857e6a11b6c39bddf5f15dfc63285a2" />
+<Entry OldName="SplitByte.frmMain.downloadToolStripMenuItem" NewName="SplitByte.frmMain.ced23b1d8ae63e1423060d97fd6519787" />
+<Entry OldName="SplitByte.frmMain.languageToolStripMenuItem" NewName="SplitByte.frmMain.c900368fb429d73e5969e9a34dc39b8b0" />
+<Entry OldName="SplitByte.frmMain.helpToolStripMenuItem" NewName="SplitByte.frmMain.cc6807f4907df35e88e9b57dbaa9fdf19" />
+<Entry OldName="SplitByte.frmMain.feedbackToolStripMenuItem" NewName="SplitByte.frmMain.c0dbf6bd6c80c12c725e33a47d76109e3" />
+<Entry OldName="SplitByte.frmMain.aboutToolStripMenuItem" NewName="SplitByte.frmMain.ccb02267a92a1537d5a325d095407107d" />
+<Entry OldName="SplitByte.frmMain.pictureBox1" NewName="SplitByte.frmMain.c74694040f51d6a0361ae362da91f266e" />
+<Entry OldName="SplitByte.frmMain.label9" NewName="SplitByte.frmMain.c1f43b0345e4782f372c3f6edb62c502a" />
+<Entry OldName="SplitByte.frmMain.label10" NewName="SplitByte.frmMain.c019169f0ed105d54e3c81b28ca578d35" />
+<Entry OldName="SplitByte.frmMain.pictureBox2" NewName="SplitByte.frmMain.c777ef4f0b1209350596cea60c31dcd2d" />
+<Entry OldName="SplitByte.frmMain.chkSplitExplore" NewName="SplitByte.frmMain.caa7003d5b4696c457c834dd8e4c04914" />
+<Entry OldName="SplitByte.frmMain.chkJoinExplore" NewName="SplitByte.frmMain.c15f403f790737bea45c1187840f7a914" />
+<Entry OldName="SplitByte.frmMain.btnMD5ComparisonCopy" NewName="SplitByte.frmMain.c4aeba746985083b5e65b24b4e83f3766" />
+<Entry OldName="SplitByte.frmMain.cmbMD5ComparisonSignature" NewName="SplitByte.frmMain.c2a8607ce555a5908448de61c70dd53ef" />
+<Entry OldName="SplitByte.frmMain.label11" NewName="SplitByte.frmMain.c698055c9015ca7bbb911aebe17e55add" />
+<Entry OldName="SplitByte.frmMain.cmbMD5ComparisonFile" NewName="SplitByte.frmMain.c5f4785bf9ee10bce90d88983545dbfbc" />
+<Entry OldName="SplitByte.frmMain.label12" NewName="SplitByte.frmMain.c50865cdd576f0ffd71c3640a1e2bd3af" />
+<Entry OldName="SplitByte.frmMain.btnMD5ComparisonBrowse" NewName="SplitByte.frmMain.cca004e70b48cb33c5a24367c920135f3" />
+<Entry OldName="SplitByte.frmMain.chkJoinShutdown" NewName="SplitByte.frmMain.c6c7f55a3433980f57f992324affbfe37" />
+<Entry OldName="SplitByte.frmMain.chkSplitShutdown" NewName="SplitByte.frmMain.c4d82e069a01b242e3878b6c4f52c8a59" />
+<Entry OldName="SplitByte.frmMain.chkSplitEmail" NewName="SplitByte.frmMain.c4426256ab67aa968e84af337e084ecf0" />
+<Entry OldName="SplitByte.frmMain.bwMD5" NewName="SplitByte.frmMain.c846d38d0deeb85bb778c43485be8185a" />
+<Entry OldName="SplitByte.frmMain.chkSpitNumberParts" NewName="SplitByte.frmMain.c43d75507856e13a3a72e62c7792a28db" />
+<Entry OldName="SplitByte.frmMain.chkSplitSize" NewName="SplitByte.frmMain.c7a89e16fa114b6312b0b7dbd04f4173f" />
+<Entry OldName="SplitByte.frmMain.label13" NewName="SplitByte.frmMain.cf2530137a2fdbc5e702e0e26db05e523" />
+<Entry OldName="SplitByte.frmMain.languages1ToolStripMenuItem" NewName="SplitByte.frmMain.c25dab575aefc8918ae578235c5a44760" />
+<Entry OldName="SplitByte.frmMain.languages2ToolStripMenuItem" NewName="SplitByte.frmMain.c6521be6af9e82907463fdefde537b156" />
+<Entry OldName="SplitByte.frmMain.helpGuideToolStripMenuItem" NewName="SplitByte.frmMain.c9c7dc1912d2368a48710b8cf592a1e3b" />
+<Entry OldName="SplitByte.frmMain.setUpdateProxyToolStripMenuItem" NewName="SplitByte.frmMain.cd310991465fbe338675b92facd6daa31" />
+<Entry OldName="SplitByte.frmMain.toolStripMenuItem1" NewName="SplitByte.frmMain.c5a93daea5827a94b5bdfe45f2416d0b5" />
+<Entry OldName="SplitByte.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem" NewName="SplitByte.frmMain.c95a63936d980d22f8a800e86dcbb658a" />
+<Entry OldName="SplitByte.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem" NewName="SplitByte.frmMain.c82b147fa439d4cab94a999d7b63f1a5c" />
+<Entry OldName="SplitByte.frmMain.followUsOnTwitterToolStripMenuItem" NewName="SplitByte.frmMain.c851d8fdf92617d09bd63864cb52698d0" />
+<Entry OldName="SplitByte.frmMain.downloadLatestVersionToolStripMenuItem" NewName="SplitByte.frmMain.c4224d8ed4aac5e8f1b415199c68e8735" />
+<Entry OldName="SplitByte.frmMain.btnCancel" NewName="SplitByte.frmMain.c46894ce2b457ae221b8f8ee00b7855dc" />
+<Entry OldName="SplitByte.frmMain.lblTimeElapsedDesc" NewName="SplitByte.frmMain.c390cfc60ccd8d53facb947673351d082" />
+<Entry OldName="SplitByte.frmMain.lblTimeElapsed" NewName="SplitByte.frmMain.ca54026b8a739f19a8e4506eebf854c99" />
+<Entry OldName="SplitByte.frmMain.lblTimeRemaining" NewName="SplitByte.frmMain.cdb881b45dbeeec906c98cf0a1c3ec5d6" />
+<Entry OldName="SplitByte.frmMain.lblTimeRemainingDesc" NewName="SplitByte.frmMain.c45ce12cf63e780d8a717daed5f019f1c" />
+<Entry OldName="SplitByte.frmMain.timElapsed" NewName="SplitByte.frmMain.ce1d296e7ca243406cf5464a931b5ee38" />
+<Entry OldName="SplitByte.frmMain.cmbSplitWhenDone" NewName="SplitByte.frmMain.c1fc1f2a73d0fbe76cd98d827023bc9a9" />
+<Entry OldName="SplitByte.frmMain.cmbJoinWhenDone" NewName="SplitByte.frmMain.c1fa6693781021fc8fc4ea3d67d313f67" />
+<Entry OldName="SplitByte.frmOverwrite.components" NewName="SplitByte.frmOverwrite.c1bc748698c1cda145e3bd99aafce482f" />
+<Entry OldName="SplitByte.frmOverwrite.pictureBox1" NewName="SplitByte.frmOverwrite.c74694040f51d6a0361ae362da91f266e" />
+<Entry OldName="SplitByte.frmOverwrite.label1" NewName="SplitByte.frmOverwrite.c8344405c7574c70670444194c6542a98" />
+<Entry OldName="SplitByte.frmOverwrite.lblFile" NewName="SplitByte.frmOverwrite.c67d1ab8597d7f1781d129b0a541df3e9" />
+<Entry OldName="SplitByte.frmOverwrite.btnRename" NewName="SplitByte.frmOverwrite.cf9d32a46a64f88fe5d2f3734acbcefa1" />
+<Entry OldName="SplitByte.frmOverwrite.btnOverwrite" NewName="SplitByte.frmOverwrite.cdb1f63d105dc88d0400b0fee1360fe91" />
+<Entry OldName="SplitByte.frmOverwrite.btnSkip" NewName="SplitByte.frmOverwrite.cce35303abd2bdd673d9b4236792caa6a" />
+<Entry OldName="SplitByte.frmOverwrite.chkDoForAll" NewName="SplitByte.frmOverwrite.ce1199d43ed4d439b2c34933d7dd8efc0" />
+<Entry OldName="SplitByte.frmOverwriteNewFilename.components" NewName="SplitByte.frmOverwriteNewFilename.c1bc748698c1cda145e3bd99aafce482f" />
+<Entry OldName="SplitByte.frmOverwriteNewFilename.label1" NewName="SplitByte.frmOverwriteNewFilename.c8344405c7574c70670444194c6542a98" />
+<Entry OldName="SplitByte.frmOverwriteNewFilename.lblOldFilename" NewName="SplitByte.frmOverwriteNewFilename.c1b4bef89dc31b40a299a7397703906f3" />
+<Entry OldName="SplitByte.frmOverwriteNewFilename.label2" NewName="SplitByte.frmOverwriteNewFilename.c21d98917cd71c23fb6c1ec94ed1e3c57" />
+<Entry OldName="SplitByte.frmOverwriteNewFilename.btnBrowseFile" NewName="SplitByte.frmOverwriteNewFilename.cc7782b229cccff4e8d109fbe2c83712e" />
+<Entry OldName="SplitByte.frmOverwriteNewFilename.btnCancel" NewName="SplitByte.frmOverwriteNewFilename.c46894ce2b457ae221b8f8ee00b7855dc" />
+<Entry OldName="SplitByte.frmOverwriteNewFilename.btnOK" NewName="SplitByte.frmOverwriteNewFilename.cc43489df54022088c1b87f8777486dd0" />
+<Entry OldName="SplitByte.frmOverwriteNewFilename.openFileDialog1" NewName="SplitByte.frmOverwriteNewFilename.cbd68d734b12d43dbd9a62f91c6bb955f" />
+<Entry OldName="SplitByte.frmShutdown.Seconds" NewName="SplitByte.frmShutdown.c90bebac6e0037c5b1072bc24c6e85fe9" />
+<Entry OldName="SplitByte.frmShutdown.components" NewName="SplitByte.frmShutdown.c1bc748698c1cda145e3bd99aafce482f" />
+<Entry OldName="SplitByte.frmShutdown.label1" NewName="SplitByte.frmShutdown.c8344405c7574c70670444194c6542a98" />
+<Entry OldName="SplitByte.frmShutdown.lblSeconds" NewName="SplitByte.frmShutdown.c693b01cbbba1cf47e3ef01f1c918bdb8" />
+<Entry OldName="SplitByte.frmShutdown.label3" NewName="SplitByte.frmShutdown.cb780b2ab8461d8224dc5479901846cfa" />
+<Entry OldName="SplitByte.frmShutdown.btnCancel" NewName="SplitByte.frmShutdown.c46894ce2b457ae221b8f8ee00b7855dc" />
+<Entry OldName="SplitByte.frmShutdown.timer1" NewName="SplitByte.frmShutdown.cbd51789f0425d5135be5a9f319b1d783" />
+<Entry OldName="SplitByte.frmSpecifyFiles.components" NewName="SplitByte.frmSpecifyFiles.c1bc748698c1cda145e3bd99aafce482f" />
+<Entry OldName="SplitByte.frmSpecifyFiles.label1" NewName="SplitByte.frmSpecifyFiles.c8344405c7574c70670444194c6542a98" />
+<Entry OldName="SplitByte.frmSpecifyFiles.openFileDialog1" NewName="SplitByte.frmSpecifyFiles.cbd68d734b12d43dbd9a62f91c6bb955f" />
+<Entry OldName="SplitByte.frmSpecifyFiles.btnJoinFirstPartBrowse" NewName="SplitByte.frmSpecifyFiles.c12c8a847b5a51a498ba1036d2fbe012b" />
+<Entry OldName="SplitByte.frmSpecifyFiles.btnCancel" NewName="SplitByte.frmSpecifyFiles.c46894ce2b457ae221b8f8ee00b7855dc" />
+<Entry OldName="SplitByte.frmSpecifyFiles.btnOK2" NewName="SplitByte.frmSpecifyFiles.ccb2940079ad72c4ec26ccdc4531d1f0f" />
+<Entry OldName="SplitByte.frmUninstallQuestionnaire.OnUninstall" NewName="SplitByte.frmUninstallQuestionnaire.c396be18def0210ca83847d56515daa88" />
+<Entry OldName="SplitByte.frmUninstallQuestionnaire.components" NewName="SplitByte.frmUninstallQuestionnaire.c1bc748698c1cda145e3bd99aafce482f" />
+<Entry OldName="SplitByte.frmUninstallQuestionnaire.label1" NewName="SplitByte.frmUninstallQuestionnaire.c8344405c7574c70670444194c6542a98" />
+<Entry OldName="SplitByte.frmUninstallQuestionnaire.label2" NewName="SplitByte.frmUninstallQuestionnaire.c21d98917cd71c23fb6c1ec94ed1e3c57" />
+<Entry OldName="SplitByte.frmUninstallQuestionnaire.label3" NewName="SplitByte.frmUninstallQuestionnaire.cb780b2ab8461d8224dc5479901846cfa" />
+<Entry OldName="SplitByte.frmUninstallQuestionnaire.btnOK" NewName="SplitByte.frmUninstallQuestionnaire.cc43489df54022088c1b87f8777486dd0" />
+<Entry OldName="SplitByte.frmUninstallQuestionnaire.btnExit" NewName="SplitByte.frmUninstallQuestionnaire.c085895c494828b180ea4af1a343a9eba" />
+<Entry OldName="SplitByte.frmUninstallQuestionnaire.txtLike" NewName="SplitByte.frmUninstallQuestionnaire.cbffd3544f2b320e03212168723bdf223" />
+<Entry OldName="SplitByte.frmUninstallQuestionnaire.txtBuy" NewName="SplitByte.frmUninstallQuestionnaire.cb6701a33336299623e86b86a7778dd7e" />
+<Entry OldName="SplitByte.frmUninstallQuestionnaire.label4" NewName="SplitByte.frmUninstallQuestionnaire.ceceec03fbb561530ccce46c299e20550" />
+<Entry OldName="SplitByte.frmUninstallQuestionnaire.txtEmail" NewName="SplitByte.frmUninstallQuestionnaire.c6c41b53580b2856d730925498b5df284" />
+<Entry OldName="SplitByte.frmUninstallQuestionnaire.txtOpinion" NewName="SplitByte.frmUninstallQuestionnaire.c868309d5b31ba22ea95280645ddbffb8" />
+<Entry OldName="SplitByte.frmUninstallQuestionnaire.label5" NewName="SplitByte.frmUninstallQuestionnaire.c47ee61e2f62cffcab132d2e4316a3a4e" />
+<Entry OldName="SplitByte.ImageComboBox.imageList" NewName="A.ced8afcde5eb54161d56a072bff86ea3f.cf2cf5b2e20d5bd0ceb746c1cf5da6c91" />
+<Entry OldName="SplitByte.ComboBoxExItem._text" NewName="A.c31f2bb8a93daa80045ed35f9cd177e1c.c14d124787fac105e3ed1325872c5a727" />
+<Entry OldName="SplitByte.ComboBoxExItem._imageIndex" NewName="A.c31f2bb8a93daa80045ed35f9cd177e1c.c5bfe42bd4de2c9ccaf83bfabe6fdd39f" />
+<Entry OldName="SplitByte.JoinHelper.Password" NewName="A.cc3ddc27f06c272507d57cf1a9b57d779.c4dcd349e61cd876f6229a13b957343f5" />
+<Entry OldName="SplitByte.JoinHelper.JoinOutputFile" NewName="A.cc3ddc27f06c272507d57cf1a9b57d779.cfe4e8dcec4ee7cf20ccd84ed67fea5c6" />
+<Entry OldName="SplitByte.LabelToolTip.tooltip" NewName="SplitByte.LabelToolTip.cc1ea2573520a0a810b16b746a26c589e" />
+<Entry OldName="SplitByte.Module.Version" NewName="A.cc000a7344d5c93d9678a923d14433208.c477a37828fe6fcfc9113c08b264d6d2c" />
+<Entry OldName="SplitByte.Module.Portable" NewName="A.cc000a7344d5c93d9678a923d14433208.cc6698d38134d4696bca3468ce40d4730" />
+<Entry OldName="SplitByte.Module.HelpURL" NewName="A.cc000a7344d5c93d9678a923d14433208.ca797f9fadd0802e0fe49cf414f2396c7" />
+<Entry OldName="SplitByte.Module.DownloadURL" NewName="A.cc000a7344d5c93d9678a923d14433208.c4a632a90571dc4b8aedec19fa7188c75" />
+<Entry OldName="SplitByte.Module.ProductWebpageURL" NewName="A.cc000a7344d5c93d9678a923d14433208.c820a9bc42cfde1138cc867f48f0f4b55" />
+<Entry OldName="SplitByte.Module.VersionURL" NewName="A.cc000a7344d5c93d9678a923d14433208.c9d2fd6bc45131535c90307094eca7110" />
+<Entry OldName="SplitByte.Module.StoreUrl" NewName="A.cc000a7344d5c93d9678a923d14433208.cf724ee147ba3734c4ec7af1e667845fd" />
+<Entry OldName="SplitByte.Module.SelectedLanguage" NewName="A.cc000a7344d5c93d9678a923d14433208.c862268ec27dd4522017e8b43493b18ef" />
+<Entry OldName="SplitByte.Module.args" NewName="A.cc000a7344d5c93d9678a923d14433208.c04080986aeb582e144ba5740e9bb66fc" />
+<Entry OldName="SplitByte.Module.IsCommandLine" NewName="A.cc000a7344d5c93d9678a923d14433208.c800616fa035f254a3c4f27e317f089d0" />
+<Entry OldName="SplitByte.Module.IsExtensionJoin" NewName="A.cc000a7344d5c93d9678a923d14433208.c39c1de3975f8ddcc2c94299e666fa368" />
+<Entry OldName="SplitByte.Module.IsFromWindowsExplorer" NewName="A.cc000a7344d5c93d9678a923d14433208.c7da1c115e9563d15493524641c03e092" />
+<Entry OldName="SplitByte.Module.IsFromOpenWith" NewName="A.cc000a7344d5c93d9678a923d14433208.c1d2154e353223d4e44576221cacbffaa" />
+<Entry OldName="SplitByte.Module.UserDocumentsFolder" NewName="A.cc000a7344d5c93d9678a923d14433208.c8b9919f207310c0df6c6fde5873715f9" />
+<Entry OldName="SplitByte.Module.CmdMerge" NewName="A.cc000a7344d5c93d9678a923d14433208.c50b4594364f1e22f2e7cf301ee3d6369" />
+<Entry OldName="SplitByte.Module.CmdSplit" NewName="A.cc000a7344d5c93d9678a923d14433208.ca28c08346de1fda8c94e766740263521" />
+<Entry OldName="SplitByte.Module.CmdDelete" NewName="A.cc000a7344d5c93d9678a923d14433208.c31bd6d4f1c447c0f6df43a9631b45380" />
+<Entry OldName="SplitByte.Module.CmdExtract" NewName="A.cc000a7344d5c93d9678a923d14433208.c93c939bed91a6c27d0784564aee6f44e" />
+<Entry OldName="SplitByte.Module.CmdPageFrom" NewName="A.cc000a7344d5c93d9678a923d14433208.c836231dda3c1ee38e2c8d9dc9f6bf5db" />
+<Entry OldName="SplitByte.Module.CmdPageTo" NewName="A.cc000a7344d5c93d9678a923d14433208.cbce3fc7a2954867ccf0d9be77880ae92" />
+<Entry OldName="SplitByte.Module.CmdPageOddFrom" NewName="A.cc000a7344d5c93d9678a923d14433208.cdd512582bf75490414e2b62ef5ccec8a" />
+<Entry OldName="SplitByte.Module.CmdPageOddTo" NewName="A.cc000a7344d5c93d9678a923d14433208.c111350f9ba89e69674f12b0990974e96" />
+<Entry OldName="SplitByte.Module.CmdPageEvenFrom" NewName="A.cc000a7344d5c93d9678a923d14433208.c68f26498f01ea4319f943b6bdb889e45" />
+<Entry OldName="SplitByte.Module.CmdPageEvenTo" NewName="A.cc000a7344d5c93d9678a923d14433208.c82f3ea49f3272746cd421d737bfb5eb6" />
+<Entry OldName="SplitByte.Module.CmdPageEvery" NewName="A.cc000a7344d5c93d9678a923d14433208.c2ec74c9a222cbef4d9aa052210f6bf5e" />
+<Entry OldName="SplitByte.Module.CmdPageEveryFrom" NewName="A.cc000a7344d5c93d9678a923d14433208.c2ccedefeb48e8ad12c72bcbc96f7d323" />
+<Entry OldName="SplitByte.Module.CmdPageEveryTo" NewName="A.cc000a7344d5c93d9678a923d14433208.c92c8498ace69fe7989d9c9867a75f89a" />
+<Entry OldName="SplitByte.Module.CmdPageRange" NewName="A.cc000a7344d5c93d9678a923d14433208.c10b2ac107a15c49900c74d315c73336b" />
+<Entry OldName="SplitByte.Module.CmdPageContaining" NewName="A.cc000a7344d5c93d9678a923d14433208.c589b7903cad074ddf6d7af22fdf66042" />
+<Entry OldName="SplitByte.Module.CmdTitle" NewName="A.cc000a7344d5c93d9678a923d14433208.cf2fe187ba35f196141c940ab923b8256" />
+<Entry OldName="SplitByte.Module.CmdAuthor" NewName="A.cc000a7344d5c93d9678a923d14433208.c0af006d6d551661c410b7378ea5cc642" />
+<Entry OldName="SplitByte.Module.CmdKeywords" NewName="A.cc000a7344d5c93d9678a923d14433208.c7cf546608d64210568dbea21959c5f03" />
+<Entry OldName="SplitByte.Module.CmdSubject" NewName="A.cc000a7344d5c93d9678a923d14433208.c767596a50f10e1c1f59bfe7643daf1fa" />
+<Entry OldName="SplitByte.Module.CmdOwnerPassword" NewName="A.cc000a7344d5c93d9678a923d14433208.c1eb19357ee6478c7dff375994a836a42" />
+<Entry OldName="SplitByte.Module.CmdUserPassword" NewName="A.cc000a7344d5c93d9678a923d14433208.cafb9c1f88aa3a91be0c71b74a876d40a" />
+<Entry OldName="SplitByte.Module.CmdOutputFile" NewName="A.cc000a7344d5c93d9678a923d14433208.cbcb74972b2d987c81e4fbe77fbd67562" />
+<Entry OldName="SplitByte.Module.CmdOutputFolder" NewName="A.cc000a7344d5c93d9678a923d14433208.c39ee8c5fc820b5171c6e1e66ade5157e" />
+<Entry OldName="SplitByte.Module.CmdHeaderText" NewName="A.cc000a7344d5c93d9678a923d14433208.c7a9fd861a59cf47f8d3c61a16d21c041" />
+<Entry OldName="SplitByte.Module.CmdFooterText" NewName="A.cc000a7344d5c93d9678a923d14433208.cb8b58b9267c106b075d5e161009c133c" />
+<Entry OldName="SplitByte.Module.CmdSplitBookmarks" NewName="A.cc000a7344d5c93d9678a923d14433208.c446046b8ecfc348ff3e1c888364f399e" />
+<Entry OldName="SplitByte.Module.CmdSplitBlank" NewName="A.cc000a7344d5c93d9678a923d14433208.c24c9374cb0b2ea5d9f5f7913d839d7b8" />
+<Entry OldName="SplitByte.Module.CmdAddSubdirectories" NewName="A.cc000a7344d5c93d9678a923d14433208.c81bbd923a327b725524cf555d85fd5b0" />
+<Entry OldName="SplitByte.Module.CmdFiles" NewName="A.cc000a7344d5c93d9678a923d14433208.c65d427556a159b891188cb1720360908" />
+<Entry OldName="SplitByte.Module.SelectedFilepaths" NewName="A.cc000a7344d5c93d9678a923d14433208.c5e3b504c0b9010f783bf8abf87cd4947" />
+<Entry OldName="SplitByte.Module.SelectedOperations" NewName="A.cc000a7344d5c93d9678a923d14433208.c3da47565ca8f3f16fde11ec17ba2be6c" />
+<Entry OldName="SplitByte.Module.SelectedParameters" NewName="A.cc000a7344d5c93d9678a923d14433208.cab192f7a021710f3e53baac6b6514c75" />
+<Entry OldName="SplitByte.Module.PresetFile" NewName="A.cc000a7344d5c93d9678a923d14433208.cca8ca7ee2cf154d6ee54d95989671fd0" />
+<Entry OldName="SplitByte.Module.ImageFilter" NewName="A.cc000a7344d5c93d9678a923d14433208.c6a81f93372382ea513f2e5fe883c1c74" />
+<Entry OldName="SplitByte.Module.ImageFilterForSave" NewName="A.cc000a7344d5c93d9678a923d14433208.cfdb8ececb8918781e8d93410ee650c31" />
+<Entry OldName="SplitByte.Module.DialogFilesFilter" NewName="A.cc000a7344d5c93d9678a923d14433208.cc91ade3f18e48296fc98f5164b489677" />
+<Entry OldName="SplitByte.Module.ImagePattern" NewName="A.cc000a7344d5c93d9678a923d14433208.c4b0f6ea1871ee030ca6978d468013083" />
+<Entry OldName="SplitByte.Module.DoNotOverwriteFiles" NewName="A.cc000a7344d5c93d9678a923d14433208.c127816dad22eae682f5bae4f799366cd" />
+<Entry OldName="SplitByte.Module.AskBeforeOverwrite" NewName="A.cc000a7344d5c93d9678a923d14433208.c9275a79678c62204e3c2b9f0a69f4d3a" />
+<Entry OldName="SplitByte.Module.LeaveSameDateTime" NewName="A.cc000a7344d5c93d9678a923d14433208.c139333573274f21b00a71ac522642c81" />
+<Entry OldName="SplitByte.Module._Modex64" NewName="A.cc000a7344d5c93d9678a923d14433208.c5f6f154c0773c4415759c215ffcd25fc" />
+<Entry OldName="SplitByte.NiceLine.components" NewName="SplitByte.NiceLine.c1bc748698c1cda145e3bd99aafce482f" />
+<Entry OldName="SplitByte.NiceLine._Caption" NewName="SplitByte.NiceLine.ca48a9afd838acc1d50eacf9976720e59" />
+<Entry OldName="SplitByte.NiceLine._CaptionMarginSpace" NewName="SplitByte.NiceLine.c4ebacc471cc848dcc05b2379f156dc3d" />
+<Entry OldName="SplitByte.NiceLine._CaptionPadding" NewName="SplitByte.NiceLine.c87890d65db02ff697bfbbdb0af4060ce" />
+<Entry OldName="SplitByte.NiceLine._LineVerticalAlign" NewName="SplitByte.NiceLine.cf19958e32132d3ef474c4bea1f752806" />
+<Entry OldName="SplitByte.NiceLine._CaptionOrizontalAlign" NewName="SplitByte.NiceLine.c4b291ae541eef6e45148747e8183ef14" />
+<Entry OldName="SplitByte.OwnerDrawnComboBox.&lt;DropDownBorderColor&gt;k__BackingField" NewName="SplitByte.OwnerDrawnComboBox.c005659464e064152cef2e357a204abc4" />
+<Entry OldName="SplitByte.OwnerDrawnComboBox.&lt;DropDownBackColor&gt;k__BackingField" NewName="SplitByte.OwnerDrawnComboBox.c5c1496c714182492a234b5ce37e270dc" />
+<Entry OldName="SplitByte.Program.ATTACH_PARENT_PROCESS" NewName="A.c134134b3f3f6ab5216ae2bd74c5c7fef.c462d85199eed644e73271fe5a8349a24" />
+<Entry OldName="SplitByte.Program.ERROR_ACCESS_DENIED" NewName="A.c134134b3f3f6ab5216ae2bd74c5c7fef.c71f29cbae4e2e88918d451b6319d8847" />
+<Entry OldName="SplitByte.ucTextProgressBar.WmPaint" NewName="SplitByte.ucTextProgressBar.c79b473c33ab393005bd8edf8fec549bf" />
+<Entry OldName="SplitByte.ucTextProgressBar.components" NewName="SplitByte.ucTextProgressBar.c1bc748698c1cda145e3bd99aafce482f" />
+<Entry OldName="SplitByte.UpdateHelper.bwCheckVersion" NewName="SplitByte.UpdateHelper.c01f63e8b5ab569dd9b84f86e81960680" />
+<Entry OldName="SplitByte.RadioButtonToolTip.tooltip" NewName="SplitByte.RadioButtonToolTip.cc1ea2573520a0a810b16b746a26c589e" />
+<Entry OldName="SplitByte.RegistryHelper.AddingCombo" NewName="A.c46a0eaa1784177c0d86efa0a74cd545e.ccc2e4da8e7190a01f3a5dc80e3f99848" />
+<Entry OldName="SplitByte.ResFlags.resourceMan" NewName="A.c536c00194660df0df53a439339cc2fc3.c02a42905915f9e5ccc89ecfcfc73197b" />
+<Entry OldName="SplitByte.ResFlags.resourceCulture" NewName="A.c536c00194660df0df53a439339cc2fc3.cd0fbe3bf2c0c62c39c882b101863fb4e" />
+<Entry OldName="SplitByte.ResTranslate.resourceMan" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.c02a42905915f9e5ccc89ecfcfc73197b" />
+<Entry OldName="SplitByte.ResTranslate.resourceCulture" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.cd0fbe3bf2c0c62c39c882b101863fb4e" />
+<Entry OldName="SplitByte.SplitHelper.FirstSplitPartFilePath" NewName="A.cd49a4e4dc789518484f35016363f4918.c159cf777ba4d6701ddf7b094b3d4e58d" />
+<Entry OldName="SplitByte.SplitHelper.LastSplitFiles" NewName="A.cd49a4e4dc789518484f35016363f4918.c1860ac58dec484c4f5c2d56aae66617c" />
+<Entry OldName="SplitByte.ProgressChange.ChunkNum" NewName="A.cb7f08e29d68aaa31902c477b4db9d19f.c8d76c544b28526e0e89c4413b27dfa57" />
+<Entry OldName="SplitByte.ProgressChange.Elapsed" NewName="A.cb7f08e29d68aaa31902c477b4db9d19f.c54b41f7f62d27842bed3658ee4807ba1" />
+<Entry OldName="SplitByte.GetSplitFilepathResult.Skip" NewName="A.c4001ca710c6d8943c5dd3488286fdc18.c5717c83906d51f707297c746bc7c9cce" />
+<Entry OldName="SplitByte.GetSplitFilepathResult.SplitFilepath" NewName="A.c4001ca710c6d8943c5dd3488286fdc18.c9a0de5ad8b7572b7406b29fb2b0259da" />
+<Entry OldName="SplitByte.TranslateHelper.rm" NewName="A.c66bd266bf5c660d2e80ca9918b07c298.c110d09e9cf8443115eacf89d464f1111" />
+<Entry OldName="SplitByte.Properties.Resources.resourceMan" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.c02a42905915f9e5ccc89ecfcfc73197b" />
+<Entry OldName="SplitByte.Properties.Resources.resourceCulture" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.cd0fbe3bf2c0c62c39c882b101863fb4e" />
+<Entry OldName="SplitByte.ArgsHelper..ctor()" NewName="A.c155c05210aeda33339988675d0fc0b25..ctor()" />
+<Entry OldName="SplitByte.ArgsHelper..cctor()" NewName="A.c155c05210aeda33339988675d0fc0b25..cctor()" />
+<Entry OldName="SplitByte.ArgsHelper.IsCommandLine()" NewName="A.c155c05210aeda33339988675d0fc0b25.c800616fa035f254a3c4f27e317f089d0()" />
+<Entry OldName="SplitByte.ArgsHelper.ExamineArgs(String[] args)" NewName="A.c155c05210aeda33339988675d0fc0b25.c0552e96503ac33e5c00d74aec7cda6dc(String[] c04080986aeb582e144ba5740e9bb66fc)" />
+<Entry OldName="SplitByte.ArgsHelper.ExecuteCommandLine()" NewName="A.c155c05210aeda33339988675d0fc0b25.c4513bd1320407832855f3105c5f214d7()" />
+<Entry OldName="SplitByte.ArgsHelper.GetParameter(String arg)" NewName="A.c155c05210aeda33339988675d0fc0b25.c2fcb36f19efb8762265a098982f23381(String c927c0492cf65918fa7a7780ded713463)" />
+<Entry OldName="SplitByte.ArgsHelper.SplitArguments(String commandLine)" NewName="A.c155c05210aeda33339988675d0fc0b25.ce139bc893cc000bbf715eac45b94a9ab(String c87b8c07b1e3cb439552dbefb83240be5)" />
+<Entry OldName="SplitByte.ArgsHelper.ShowCommandUsage()" NewName="A.c155c05210aeda33339988675d0fc0b25.c6bdc2b7a9a400318ecb06367dd7a73e3()" />
+<Entry OldName="SplitByte.CustomForm.CustomForm_Activated(Object sender, EventArgs e)" NewName="SplitByte.CustomForm.c1c64d8c3cd2d415dc061991ae2551e55(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.CustomForm.ResizeChildControls(Control co)" NewName="SplitByte.CustomForm.c124e23564655db60a5d0ab0d9f9a1c2c(Control c2e66b047dfb97ceb829c91b9577938e4)" />
+<Entry OldName="SplitByte.CustomForm.InitializeComponent()" NewName="SplitByte.CustomForm.cffb18d32106e9cb1d292f9f4fd033c15()" />
+<Entry OldName="SplitByte.CustomProgressBar..ctor()" NewName="A.c8b5e03f424cc27e6acea4402dc62af80..ctor()" />
+<Entry OldName="SplitByte.CustomProgressBar.OnPaint(PaintEventArgs e)" NewName="A.c8b5e03f424cc27e6acea4402dc62af80.OnPaint(PaintEventArgs e)" />
+<Entry OldName="SplitByte.DownloadSuggestionsHelper..ctor()" NewName="A.c03815956957fd7f983789808b37f2f7f..ctor()" />
+<Entry OldName="SplitByte.DownloadSuggestionsHelper.SetupDownloadMenuItems(ToolStripMenuItem tsiDownload)" NewName="A.c03815956957fd7f983789808b37f2f7f.c231d7116e098c12e3b4bbe1096adbd61(ToolStripMenuItem c626e82e2cfa09cf1021cbd6a370d7061)" />
+<Entry OldName="SplitByte.DownloadSuggestionsHelper.tsi_Click(Object sender, EventArgs e)" NewName="A.c03815956957fd7f983789808b37f2f7f.c346c4d585623968315556fbcf208c6dd(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.EncryptHelper..ctor()" NewName="A.c3b596816a365a0837681608ed8128b64..ctor()" />
+<Entry OldName="SplitByte.EncryptHelper.DecryptFile(String filepath, String password)" NewName="A.c3b596816a365a0837681608ed8128b64.c41935b99aeee3de43818f1af2a0bb79b(String c035e9b93f76a541c50eca6647ba0ea83, String cf4b09272ab1571fc34961dc1dfc2fcde)" />
+<Entry OldName="SplitByte.EncryptHelper.EncryptFile(String filepath, Encoding Encoding, String contents, String password)" NewName="A.c3b596816a365a0837681608ed8128b64.c87af3cd62c10f3a907a0ef97fe474f85(String c035e9b93f76a541c50eca6647ba0ea83, Encoding cbe8b7f770b66250d059f850095395a59, String c5937ddf30878099eb5bc15c8b785b439, String cf4b09272ab1571fc34961dc1dfc2fcde)" />
+<Entry OldName="SplitByte.EncryptHelper.EncryptString(String Message, String Passphrase)" NewName="A.c3b596816a365a0837681608ed8128b64.cfc3f68ac77ae7fe27c9a38d5760541b1(String c20004f12cb1eb06e1bdc5a33cbb91993, String cbeab5fb2e856164f256d80bdf9098ccb)" />
+<Entry OldName="SplitByte.EncryptHelper.EncryptBytes(Byte[] Message, String Passphrase)" NewName="A.c3b596816a365a0837681608ed8128b64.c0634bb02d40bf166cb19c68558ee1937(Byte[] c20004f12cb1eb06e1bdc5a33cbb91993, String cbeab5fb2e856164f256d80bdf9098ccb)" />
+<Entry OldName="SplitByte.EncryptHelper.DecryptString(String Message, String Passphrase)" NewName="A.c3b596816a365a0837681608ed8128b64.c655b0c3e86b6be25a9585c014f9a4edb(String c20004f12cb1eb06e1bdc5a33cbb91993, String cbeab5fb2e856164f256d80bdf9098ccb)" />
+<Entry OldName="SplitByte.EncryptHelper.DecryptBytes(Byte[] Message, String Passphrase)" NewName="A.c3b596816a365a0837681608ed8128b64.c4b35167152c4b3fb15addc13be95fdd6(Byte[] c20004f12cb1eb06e1bdc5a33cbb91993, String cbeab5fb2e856164f256d80bdf9098ccb)" />
+<Entry OldName="SplitByte.ExceptionHandlersHelper..ctor()" NewName="A.c59d7dcc847eb7cc7a3b1bf931537be4e..ctor()" />
+<Entry OldName="SplitByte.ExceptionHandlersHelper.AddUnhandledExceptionHandlers()" NewName="A.c59d7dcc847eb7cc7a3b1bf931537be4e.c4c56f9aaf86a09475f3acfed79537e29()" />
+<Entry OldName="SplitByte.ExceptionHandlersHelper.myExceptionHandler(Object sender, UnhandledExceptionEventArgs e)" NewName="A.c59d7dcc847eb7cc7a3b1bf931537be4e.c9361254198688c045de48d4d2c4b9ab6(Object cb427e57334aa7da3ad996d5b88389c21, UnhandledExceptionEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.ExceptionHandlersHelper.myThreadExceptionHandler(Object sender, ThreadExceptionEventArgs e)" NewName="A.c59d7dcc847eb7cc7a3b1bf931537be4e.cb6d8e5dd5b29f8afeef83fd2a3a81eb7(Object cb427e57334aa7da3ad996d5b88389c21, ThreadExceptionEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmAbout.frmAbout_Load(Object sender, EventArgs e)" NewName="SplitByte.frmAbout.c463e8de71c61d14e671264132a262d5e(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmAbout.btnClose_Click(Object sender, EventArgs e)" NewName="SplitByte.frmAbout.c926949b0597544e3e95f71cd40713945(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmAbout.linkLabel1_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="SplitByte.frmAbout.cb86e9b8bd66f59f6e97e79cf4ade6277(Object cb427e57334aa7da3ad996d5b88389c21, LinkLabelLinkClickedEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmAbout.linkLabel2_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="SplitByte.frmAbout.c60d689382c4c858a2ccdf3aa591fb95b(Object cb427e57334aa7da3ad996d5b88389c21, LinkLabelLinkClickedEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmAbout.btnBuy_Click(Object sender, EventArgs e)" NewName="SplitByte.frmAbout.caaa34f458842af90ed0a42660364c4ab(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmAbout.btnRegister_Click(Object sender, EventArgs e)" NewName="SplitByte.frmAbout.cc7e2b9cc39415ec7373e588c7bc18775(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmAbout.InitializeComponent()" NewName="SplitByte.frmAbout.cffb18d32106e9cb1d292f9f4fd033c15()" />
+<Entry OldName="SplitByte.frmDownloadUpdate.frmDownloadUpdate_Load(Object sender, EventArgs e)" NewName="SplitByte.frmDownloadUpdate.cbac80ee3e8dc5ba3ea5cb9f39efea9ab(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmDownloadUpdate.client_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)" NewName="SplitByte.frmDownloadUpdate.c13239ef217f057ef10be2a0dacaaa115(Object cb427e57334aa7da3ad996d5b88389c21, AsyncCompletedEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmDownloadUpdate.client_DownloadProgressChanged(Object sender, DownloadProgressChangedEventArgs e)" NewName="SplitByte.frmDownloadUpdate.c684ab208254c329c7b0fb403cbc47f4c(Object cb427e57334aa7da3ad996d5b88389c21, DownloadProgressChangedEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmDownloadUpdate.btnCancelDownload_Click(Object sender, EventArgs e)" NewName="SplitByte.frmDownloadUpdate.c58695c1193c03edbc1898f75b46159e7(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmDownloadUpdate.InitializeComponent()" NewName="SplitByte.frmDownloadUpdate.cffb18d32106e9cb1d292f9f4fd033c15()" />
+<Entry OldName="SplitByte.frmEmail.btnCancel_Click(Object sender, EventArgs e)" NewName="SplitByte.frmEmail.cc492945b69925e7a6081c374ff5299d5(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmEmail.btnNewAccount_Click(Object sender, EventArgs e)" NewName="SplitByte.frmEmail.c4a18e587f6e87ea65d40a04c40ffdbc2(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmEmail.ReadEmailAccounts()" NewName="SplitByte.frmEmail.ca271e4fbe78757eb07c270e8ae95265f()" />
+<Entry OldName="SplitByte.frmEmail.frmEmail_Load(Object sender, EventArgs e)" NewName="SplitByte.frmEmail.c5718ec3ef47d791e3b6caf6222edbfab(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmEmail.bwSend_DoWork(Object sender, DoWorkEventArgs e)" NewName="SplitByte.frmEmail.c35c70cdb696a7b2fc9bdd2ad9d2e3c68(Object cb427e57334aa7da3ad996d5b88389c21, DoWorkEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmEmail.bwSend_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="SplitByte.frmEmail.ca55f8b78c31e9d52c0dcc129fd346f0c(Object cb427e57334aa7da3ad996d5b88389c21, ProgressChangedEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmEmail.bwSend_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="SplitByte.frmEmail.cf9338c1a5b3d52e5480f1a543c02b0cd(Object cb427e57334aa7da3ad996d5b88389c21, RunWorkerCompletedEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmEmail.btnOK_Click(Object sender, EventArgs e)" NewName="SplitByte.frmEmail.c07052b58644153ea551ce7934ecbc6f3(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmEmail.bwRefresh_DoWork(Object sender, DoWorkEventArgs e)" NewName="SplitByte.frmEmail.c02718e49f8b8e995c86e0d7f7853f96c(Object cb427e57334aa7da3ad996d5b88389c21, DoWorkEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmEmail.bwRefresh_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="SplitByte.frmEmail.cea6f08a78db929097d2cea57b0c58618(Object cb427e57334aa7da3ad996d5b88389c21, ProgressChangedEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmEmail.frmEmail_KeyUp(Object sender, KeyEventArgs e)" NewName="SplitByte.frmEmail.c3f33142b2bd9d44f28221d544284dfe5(Object cb427e57334aa7da3ad996d5b88389c21, KeyEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmEmail.InitializeComponent()" NewName="SplitByte.frmEmail.cffb18d32106e9cb1d292f9f4fd033c15()" />
+<Entry OldName="SplitByte.frmEmailAccount.btnCancel_Click(Object sender, EventArgs e)" NewName="SplitByte.frmEmailAccount.cc492945b69925e7a6081c374ff5299d5(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmEmailAccount.btnOK_Click(Object sender, EventArgs e)" NewName="SplitByte.frmEmailAccount.c07052b58644153ea551ce7934ecbc6f3(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmEmailAccount.InitializeComponent()" NewName="SplitByte.frmEmailAccount.cffb18d32106e9cb1d292f9f4fd033c15()" />
+<Entry OldName="SplitByte.frmEncryptionPassword.chkShowPassword_CheckedChanged(Object sender, EventArgs e)" NewName="SplitByte.frmEncryptionPassword.c89c9214f0df6bc9e808ee87143036ffe(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmEncryptionPassword.btnCancel_Click(Object sender, EventArgs e)" NewName="SplitByte.frmEncryptionPassword.cc492945b69925e7a6081c374ff5299d5(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmEncryptionPassword.btnOK_Click(Object sender, EventArgs e)" NewName="SplitByte.frmEncryptionPassword.c07052b58644153ea551ce7934ecbc6f3(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmEncryptionPassword.InitializeComponent()" NewName="SplitByte.frmEncryptionPassword.cffb18d32106e9cb1d292f9f4fd033c15()" />
+<Entry OldName="SplitByte.frmLanguage.btnOK_Click(Object sender, EventArgs e)" NewName="SplitByte.frmLanguage.c07052b58644153ea551ce7934ecbc6f3(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmLanguage.frmLanguage_Load(Object sender, EventArgs e)" NewName="SplitByte.frmLanguage.cf15d23019abc480cd286a35832231e91(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmLanguage.InitializeComponent()" NewName="SplitByte.frmLanguage.cffb18d32106e9cb1d292f9f4fd033c15()" />
+<Entry OldName="SplitByte.frmMain.btnBrowseSplitFile_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c01fba5e6f9ac0027f4e7f8cf248b6c4c(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.btnBrowseOutputFolder_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c153c9e951b66e74aa9ad9251195a6546(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.SetupOnLoad()" NewName="SplitByte.frmMain.c5ecf2acaad9eec5ed7ba54240f777aae()" />
+<Entry OldName="SplitByte.frmMain.frmMain_Load(Object sender, EventArgs e)" NewName="SplitByte.frmMain.cbbafece2255229b96c555fc799cd8e50(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.cmbSplitSize_SelectedIndexChanged(Object sender, EventArgs e)" NewName="SplitByte.frmMain.ce15fdde84a752d2cda815bea6d65e388(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.bwSplit_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="SplitByte.frmMain.cb543fc7f69f7b9e89b90c1588380efca(Object cb427e57334aa7da3ad996d5b88389c21, ProgressChangedEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.btnSplit_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c6c0233be2b9229839eb931174b6dbfba(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.bwSplit_DoWork(Object sender, DoWorkEventArgs e)" NewName="SplitByte.frmMain.c0f6b118208953217b16a66c9e382742f(Object cb427e57334aa7da3ad996d5b88389c21, DoWorkEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.chkSpitNumberParts_CheckedChanged(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c00beb93b1fa272726cd2d0c1aefcc307(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.chkSplitSize_CheckedChanged(Object sender, EventArgs e)" NewName="SplitByte.frmMain.cae1ed596a25adc9373a25235375d2b26(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.exitToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c0b47aa449cd66c8bb60efd6462e9bcd3(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.btnJoinFirstPartBrowse_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c58d8300b768ff265922af9cdffe7127a(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.btnJoinBrowseOutputFile_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c34b82f9abffd6c7f71e2c58bc5577000(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.btnJoin_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c60e4f1673c65b3afec3f93ef947dc737(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.bwJoin_DoWork(Object sender, DoWorkEventArgs e)" NewName="SplitByte.frmMain.ca42e9f0080bdce6bfc407ca7a4a846c4(Object cb427e57334aa7da3ad996d5b88389c21, DoWorkEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.bwJoin_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="SplitByte.frmMain.c7416d0164e40443021929649e0737964(Object cb427e57334aa7da3ad996d5b88389c21, ProgressChangedEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.bwJoin_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="SplitByte.frmMain.c6d56320d97299469fde93976ce819c45(Object cb427e57334aa7da3ad996d5b88389c21, RunWorkerCompletedEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.bwSplit_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="SplitByte.frmMain.c211827e25c45403587a8861aca99f0cc(Object cb427e57334aa7da3ad996d5b88389c21, RunWorkerCompletedEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.aboutToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c4b2de9cc2204f6b4ba2b06ed67467e4e(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.GetAsyncMD5FirstCombo(String filepath)" NewName="SplitByte.frmMain.cb0c6798e5494e6f8cf4ac20b1b60b9b7(String c035e9b93f76a541c50eca6647ba0ea83)" />
+<Entry OldName="SplitByte.frmMain.GetAsyncMD5SecondCombo(String filepath)" NewName="SplitByte.frmMain.cd7a9eae21a248632463a301ba110e910(String c035e9b93f76a541c50eca6647ba0ea83)" />
+<Entry OldName="SplitByte.frmMain.btnMD5InputFileBrowse_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c6087962ef360c65f2946c6dbd2ee2ba8(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.GetMD5FirstCombo(String filepath)" NewName="SplitByte.frmMain.c2e9fcd78a2a7ea0d26f8a481260856e3(String c035e9b93f76a541c50eca6647ba0ea83)" />
+<Entry OldName="SplitByte.frmMain.GetMD5SecondCombo(String filepath)" NewName="SplitByte.frmMain.cab7606987cab473989ad26a0e0e3eb6c(String c035e9b93f76a541c50eca6647ba0ea83)" />
+<Entry OldName="SplitByte.frmMain.btnMD5Copy_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.cd1d31516d24d007dec5a715f771aa870(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.cmbMD5InputFile_KeyUp(Object sender, KeyEventArgs e)" NewName="SplitByte.frmMain.cc7edd58051475f42101ab0537dc9bbd3(Object cb427e57334aa7da3ad996d5b88389c21, KeyEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.btnMD5ComparisonCopy_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.ce33124389283c9be1accbb9705c607aa(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.btnMD5ComparisonBrowse_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.ca1e7862e3e15f07a970332644fffb061(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.cmbMD5ComparisonFile_KeyUp(Object sender, KeyEventArgs e)" NewName="SplitByte.frmMain.cc945b1dd5e693814a51a1cc2a364ba60(Object cb427e57334aa7da3ad996d5b88389c21, KeyEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.CompareMD5Signatures()" NewName="SplitByte.frmMain.cb97e2fc15263796fc9950c6f616d431d()" />
+<Entry OldName="SplitByte.frmMain.downloadFreePDFPasswordRemoverToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.ce5b8e42b39cdf124d248187cdfc93533(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.downloadFreePDFMetadataEditorToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c0f7b67f950b611c9f8d2917d702e99d6(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.downloadPDFEncrypterToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c14f88ed6831894a4fb38c438b28914c3(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.downloadMultipleSearchAndReplaceToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.ce8095c5656ca6a150b0b852175b410c7(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.downloadPDFMergeSplitToolToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c2338f497cbea5d938b691d1e368a683a(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.downloadFreeFileUnlockerToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c20c6ba52f5e75b754679437f73ceb858(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.downloadImgTransformerToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.cfb956814422b8aaabd0e39ce7b41b565(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.downloadFreeImagemapperToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c337f1df646a737d77137c213978cd0ba(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.downloadCopyPathToClipboardToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.cd13585288f0abf6b5b24c0ef90cd6c8e(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.downloadCopyTextContentsToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.ccd87d07c50b7471976fa666252c248ea(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.downloadOpenCommandPromptHereToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c1cf13d3337c9db279b1e9c0d472bd3e4(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.downloadFreeColorwheelToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c294a071445acc63e49ee1bba31b82201(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c6c472a504b14042e51991d9872d8ee84(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.downloadDocusTreeToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c3e2b464418ce348fd5e9797be5f00427(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.feedbackToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c8e08dbc33b011d9520a5c2a41279d13e(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem_Click_1(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c25d35d22ad4a16870f3e382894651b11(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.tabPage1_DragEnter(Object sender, DragEventArgs e)" NewName="SplitByte.frmMain.c1ee932b4cfaef435a61fc04e0ef62ce5(Object cb427e57334aa7da3ad996d5b88389c21, DragEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.tabPage1_DragDrop(Object sender, DragEventArgs e)" NewName="SplitByte.frmMain.cc415a1dd8448f95ea1dacc408d29a6dd(Object cb427e57334aa7da3ad996d5b88389c21, DragEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.tabPage2_DragDrop(Object sender, DragEventArgs e)" NewName="SplitByte.frmMain.c5b9f56fb0207bdf767fabe8f8a7cd3f5(Object cb427e57334aa7da3ad996d5b88389c21, DragEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.tabPage2_DragEnter(Object sender, DragEventArgs e)" NewName="SplitByte.frmMain.ccbb152b9b2d2a7c6bc9488590fcc3e36(Object cb427e57334aa7da3ad996d5b88389c21, DragEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.tabControl1_DragEnter(Object sender, DragEventArgs e)" NewName="SplitByte.frmMain.c0e0cb0f087be3f554cbbb50f238d37e8(Object cb427e57334aa7da3ad996d5b88389c21, DragEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.tabControl1_DragDrop(Object sender, DragEventArgs e)" NewName="SplitByte.frmMain.cf035d13aa83e9efd33308fcc70bc47c4(Object cb427e57334aa7da3ad996d5b88389c21, DragEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.tabPage1_DragOver(Object sender, DragEventArgs e)" NewName="SplitByte.frmMain.c511828cb27a456d05150530692a46f1f(Object cb427e57334aa7da3ad996d5b88389c21, DragEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.tabPage2_DragOver(Object sender, DragEventArgs e)" NewName="SplitByte.frmMain.c5b51ba4abe8400052f809b22e4542a03(Object cb427e57334aa7da3ad996d5b88389c21, DragEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.tabControl1_DragOver(Object sender, DragEventArgs e)" NewName="SplitByte.frmMain.c8824eb6f09b49f9fb115affea3d8b9f1(Object cb427e57334aa7da3ad996d5b88389c21, DragEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.nudEqualParts_ValueChanged(Object sender, EventArgs e)" NewName="SplitByte.frmMain.ce4fbc5d487764a06849b9f6ce78c9853(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.cmbSplitSize_TextChanged(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c21d2953576fadedc62faa81120d9edfd(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.cmbSplitSizeType_SelectedIndexChanged(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c3ec09aa4a65b689be36cc02528da8302(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.cmbSplitInputFile_KeyUp(Object sender, KeyEventArgs e)" NewName="SplitByte.frmMain.c48fa3bc713c6e387ae2b8790e652c303(Object cb427e57334aa7da3ad996d5b88389c21, KeyEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.cmbMD5InputFile_SelectedIndexChanged(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c3478f021725a2b0689294bae7fd430b0(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.cmbMD5ComparisonFile_SelectedIndexChanged(Object sender, EventArgs e)" NewName="SplitByte.frmMain.ca5610a43bde32373b58e229421f55aff(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.cmbSplitOutputFolder_SelectedIndexChanged(Object sender, EventArgs e)" NewName="SplitByte.frmMain.cdfa4ecb853f248f9d44ac2e35376564a(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.CheckSplitOutputFolder()" NewName="SplitByte.frmMain.ca6eb72b461ddd0f5f57608cd17e69a5f()" />
+<Entry OldName="SplitByte.frmMain.cmbSplitOutputFolder_KeyUp(Object sender, KeyEventArgs e)" NewName="SplitByte.frmMain.cc47f3e3d77653ebf78495149efa0b867(Object cb427e57334aa7da3ad996d5b88389c21, KeyEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.frmMain_KeyUp(Object sender, KeyEventArgs e)" NewName="SplitByte.frmMain.c3f7a420219c7477607e6dabf47b5317c(Object cb427e57334aa7da3ad996d5b88389c21, KeyEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.cmbSplitInputFile_SelectedIndexChanged(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c929acdd0c4fccb3092641079dadb0b6b(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.cmbJoinFirstPart_SelectedIndexChanged(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c0040ae3d5dbc657b8ea41f4fb50f38f8(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.bwMD5_DoWork(Object sender, DoWorkEventArgs e)" NewName="SplitByte.frmMain.c1b0dc9fc09241200288c83acaaf546f8(Object cb427e57334aa7da3ad996d5b88389c21, DoWorkEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.bwMD5_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="SplitByte.frmMain.cd5cc1640dea8d458d5ca28b3852359f5(Object cb427e57334aa7da3ad996d5b88389c21, ProgressChangedEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.bwMD5_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="SplitByte.frmMain.cdf13045d50e1663388f308d9435ca136(Object cb427e57334aa7da3ad996d5b88389c21, RunWorkerCompletedEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.splitByteUsersGuideToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c7b4f824c9af0192132313bd3b734f4bc(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.tabControl1_SelectedIndexChanged(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c6d1066d881815e7af7185588467302ad(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.frmMain_FormClosing(Object sender, FormClosingEventArgs e)" NewName="SplitByte.frmMain.c2078fa671e893cc9c4b0a6fe3fca36be(Object cb427e57334aa7da3ad996d5b88389c21, FormClosingEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.tabPage3_DragDrop(Object sender, DragEventArgs e)" NewName="SplitByte.frmMain.c7da4f2541dc875710a9998daa0fbb4d8(Object cb427e57334aa7da3ad996d5b88389c21, DragEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.tabPage3_DragEnter(Object sender, DragEventArgs e)" NewName="SplitByte.frmMain.ce49889fda9037b055d23737640438c66(Object cb427e57334aa7da3ad996d5b88389c21, DragEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.tabPage3_DragOver(Object sender, DragEventArgs e)" NewName="SplitByte.frmMain.cba09e87751030a06c4f60059a1367a1e(Object cb427e57334aa7da3ad996d5b88389c21, DragEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.downloadLatestVersionToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c56245cdd4c6d2a5c73414d81f016274c(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c825ff65ed689288d5d1ee454625a9f45(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem_Click_2(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c39a0451084b463ce8de82051144fcc6b(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.followUsOnTwitterToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c2f674d29d8570ba9cea6f764f6ef0a9b(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.setUpdateProxyToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.c189a056db83308fe0a463f5f320f2d1a(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.helpGuideToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.caf28522e16022ab2ddb977506faa3199(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.AddLanguageMenuItems()" NewName="SplitByte.frmMain.c3157395923307cdd074f41e3e7c0239c()" />
+<Entry OldName="SplitByte.frmMain.tiLang_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.cc9fd40bc2f53cc237daaac6286d70a75(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.ChangeLanguage(String language_code)" NewName="SplitByte.frmMain.c35b4c2988f9675cef7189e3f015e79e0(String ceca59f9395e823c69c304464698c9ca1)" />
+<Entry OldName="SplitByte.frmMain.cmbJoinFirstPart_TextChanged(Object sender, EventArgs e)" NewName="SplitByte.frmMain.cae1821f12956086bc111db6225d36ead(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.cmbSplitInputFile_TextChanged(Object sender, EventArgs e)" NewName="SplitByte.frmMain.cb272f835c81ba1273a9eb1366995170e(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.btnCancel_Click(Object sender, EventArgs e)" NewName="SplitByte.frmMain.cc492945b69925e7a6081c374ff5299d5(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.frmMain_KeyPress(Object sender, KeyPressEventArgs e)" NewName="SplitByte.frmMain.c93b72f6a3c713227a16b0e113d2f0726(Object cb427e57334aa7da3ad996d5b88389c21, KeyPressEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.timElapsed_Tick(Object sender, EventArgs e)" NewName="SplitByte.frmMain.cc9d8219f55d15d15ea8b23cf063711c2(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmMain.ProcessSplitWhenFinished()" NewName="SplitByte.frmMain.c2280e1f9e448b88028a5167525156681()" />
+<Entry OldName="SplitByte.frmMain.ProcessJoinWhenFinished()" NewName="SplitByte.frmMain.cfabcfe73c133435f690a0529b3703dcd()" />
+<Entry OldName="SplitByte.frmMain.InitializeComponent()" NewName="SplitByte.frmMain.cffb18d32106e9cb1d292f9f4fd033c15()" />
+<Entry OldName="SplitByte.frmOverwrite.frmOverwrite_Load(Object sender, EventArgs e)" NewName="SplitByte.frmOverwrite.c17d7ac3a7170e40c09a17bf6c463ef6b(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmOverwrite.btnOverwrite_Click(Object sender, EventArgs e)" NewName="SplitByte.frmOverwrite.c8edc7731b2f23e82b06906008ce07401(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmOverwrite.btnRename_Click(Object sender, EventArgs e)" NewName="SplitByte.frmOverwrite.c162984c0173f098cb944f33fac26d5df(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmOverwrite.btnSkip_Click(Object sender, EventArgs e)" NewName="SplitByte.frmOverwrite.cb6d82b7f34cf1fef07dac833ea27bcfe(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmOverwrite.InitializeComponent()" NewName="SplitByte.frmOverwrite.cffb18d32106e9cb1d292f9f4fd033c15()" />
+<Entry OldName="SplitByte.frmOverwriteNewFilename.btnBrowseFile_Click(Object sender, EventArgs e)" NewName="SplitByte.frmOverwriteNewFilename.c7d4d7b8d1edaf2957c258883152b3512(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmOverwriteNewFilename.btnOK_Click(Object sender, EventArgs e)" NewName="SplitByte.frmOverwriteNewFilename.c07052b58644153ea551ce7934ecbc6f3(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmOverwriteNewFilename.btnCancel_Click(Object sender, EventArgs e)" NewName="SplitByte.frmOverwriteNewFilename.cc492945b69925e7a6081c374ff5299d5(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmOverwriteNewFilename.frmOverwriteNewFilename_Load(Object sender, EventArgs e)" NewName="SplitByte.frmOverwriteNewFilename.c64cad896d3cef7578ffe0a0189493b67(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmOverwriteNewFilename.InitializeComponent()" NewName="SplitByte.frmOverwriteNewFilename.cffb18d32106e9cb1d292f9f4fd033c15()" />
+<Entry OldName="SplitByte.frmShutdown.timer1_Tick(Object sender, EventArgs e)" NewName="SplitByte.frmShutdown.c9de1248bf5dfdfb71dc8518672b1c06a(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmShutdown.btnCancel_Click(Object sender, EventArgs e)" NewName="SplitByte.frmShutdown.cc492945b69925e7a6081c374ff5299d5(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmShutdown.InitializeComponent()" NewName="SplitByte.frmShutdown.cffb18d32106e9cb1d292f9f4fd033c15()" />
+<Entry OldName="SplitByte.frmSpecifyFiles.btnJoinFirstPartBrowse_Click(Object sender, EventArgs e)" NewName="SplitByte.frmSpecifyFiles.c58d8300b768ff265922af9cdffe7127a(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmSpecifyFiles.btnCancel_Click(Object sender, EventArgs e)" NewName="SplitByte.frmSpecifyFiles.cc492945b69925e7a6081c374ff5299d5(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmSpecifyFiles.btnOK_Click(Object sender, EventArgs e)" NewName="SplitByte.frmSpecifyFiles.c07052b58644153ea551ce7934ecbc6f3(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmSpecifyFiles.InitializeComponent()" NewName="SplitByte.frmSpecifyFiles.cffb18d32106e9cb1d292f9f4fd033c15()" />
+<Entry OldName="SplitByte.frmUninstallQuestionnaire.btnExit_Click(Object sender, EventArgs e)" NewName="SplitByte.frmUninstallQuestionnaire.c0a7c087cc4729602f0891c4fa5015ba1(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmUninstallQuestionnaire.btnOK_Click(Object sender, EventArgs e)" NewName="SplitByte.frmUninstallQuestionnaire.c07052b58644153ea551ce7934ecbc6f3(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmUninstallQuestionnaire.frmUninstallQuestionnaire_Load(Object sender, EventArgs e)" NewName="SplitByte.frmUninstallQuestionnaire.c3a9a1fbce44260783b5eb946a5a0e01b(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmUninstallQuestionnaire.txtOpinion_TextChanged(Object sender, EventArgs e)" NewName="SplitByte.frmUninstallQuestionnaire.c6102f4020d6a30304e77ccbd5c13a659(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.frmUninstallQuestionnaire.InitializeComponent()" NewName="SplitByte.frmUninstallQuestionnaire.cffb18d32106e9cb1d292f9f4fd033c15()" />
+<Entry OldName="SplitByte.ImageComboBox..ctor()" NewName="A.ced8afcde5eb54161d56a072bff86ea3f..ctor()" />
+<Entry OldName="SplitByte.ImageComboBox.get_ImageList()" NewName="A.ced8afcde5eb54161d56a072bff86ea3f.get_c12b35fc968f4b928850573baf8efc68a()" />
+<Entry OldName="SplitByte.ImageComboBox.set_ImageList(ImageList value)" NewName="A.ced8afcde5eb54161d56a072bff86ea3f.set_c12b35fc968f4b928850573baf8efc68a(ImageList c034773e064015b92c9379bacc95a0f1a)" />
+<Entry OldName="SplitByte.ImageComboBox.OnDrawItem(DrawItemEventArgs ea)" NewName="A.ced8afcde5eb54161d56a072bff86ea3f.OnDrawItem(DrawItemEventArgs ea)" />
+<Entry OldName="SplitByte.ComboBoxExItem..ctor()" NewName="A.c31f2bb8a93daa80045ed35f9cd177e1c..ctor()" />
+<Entry OldName="SplitByte.ComboBoxExItem..ctor(String text)" NewName="A.c31f2bb8a93daa80045ed35f9cd177e1c..ctor(String c873ccd2b85cfc86f3c5b91ae16d075c1)" />
+<Entry OldName="SplitByte.ComboBoxExItem..ctor(String text, Int32 imageIndex)" NewName="A.c31f2bb8a93daa80045ed35f9cd177e1c..ctor(String c873ccd2b85cfc86f3c5b91ae16d075c1, Int32 c990d85dadd2bbbfe1535a72bc96b8797)" />
+<Entry OldName="SplitByte.ComboBoxExItem.get_Text()" NewName="A.c31f2bb8a93daa80045ed35f9cd177e1c.get_c6b918aeb0389e3babc2c5338745ba96b()" />
+<Entry OldName="SplitByte.ComboBoxExItem.set_Text(String value)" NewName="A.c31f2bb8a93daa80045ed35f9cd177e1c.set_c6b918aeb0389e3babc2c5338745ba96b(String c034773e064015b92c9379bacc95a0f1a)" />
+<Entry OldName="SplitByte.ComboBoxExItem.get_ImageIndex()" NewName="A.c31f2bb8a93daa80045ed35f9cd177e1c.get_c855faf1a8351331888e6c8d11a83e121()" />
+<Entry OldName="SplitByte.ComboBoxExItem.set_ImageIndex(Int32 value)" NewName="A.c31f2bb8a93daa80045ed35f9cd177e1c.set_c855faf1a8351331888e6c8d11a83e121(Int32 c034773e064015b92c9379bacc95a0f1a)" />
+<Entry OldName="SplitByte.ComboBoxExItem.ToString()" NewName="A.c31f2bb8a93daa80045ed35f9cd177e1c.ToString()" />
+<Entry OldName="SplitByte.JoinHelper..ctor()" NewName="A.cc3ddc27f06c272507d57cf1a9b57d779..ctor()" />
+<Entry OldName="SplitByte.JoinHelper..cctor()" NewName="A.cc3ddc27f06c272507d57cf1a9b57d779..cctor()" />
+<Entry OldName="SplitByte.JoinHelper.GetListOfParts(String inputFile)" NewName="A.cc3ddc27f06c272507d57cf1a9b57d779.ca881386dcd52a4f6019aa2db261fce43(String c1a1d9f64600ef4cb2716f6247126a454)" />
+<Entry OldName="SplitByte.JoinHelper.FindNextAAA(String ind_part)" NewName="A.cc3ddc27f06c272507d57cf1a9b57d779.c911b99eca19b1b59921029cfbe82e331(String cbd1ba6ca25b1ce94aa0ee1940615c3c2)" />
+<Entry OldName="SplitByte.JoinHelper.FindNextA(String ind_part)" NewName="A.cc3ddc27f06c272507d57cf1a9b57d779.c105ee6e037a8678374544b37c5817282(String cbd1ba6ca25b1ce94aa0ee1940615c3c2)" />
+<Entry OldName="SplitByte.JoinHelper.JoinFiles(List`1 files, Boolean files_explicit, String output_file, Boolean delete_after_join, Boolean keep_timestamp, String password)" NewName="A.cc3ddc27f06c272507d57cf1a9b57d779.c74523085fee342990a1fcb8beb480ef3(List`1 c9e1bbbefa29362dd02345d8307b4f2ce, Boolean cbb315e193ec7b35a08685871bdf81b98, String ceb012b55fcd9b228c983c8f78aec477a, Boolean c72a41f31de5502906c54b27bfa8bf5ea, Boolean c05695d8ff6e04fa6e573fd4ce77c7fd9, String cf4b09272ab1571fc34961dc1dfc2fcde)" />
+<Entry OldName="SplitByte.JoinHelper.Decompress(Byte[] gzip)" NewName="A.cc3ddc27f06c272507d57cf1a9b57d779.caaa16cbe6d88c4587af89a92e96388b7(Byte[] c4e2bae4d2b21b33a9b441e31c9346373)" />
+<Entry OldName="SplitByte.MailHelper..ctor()" NewName="A.c5ac6e27ba7481e7e01b435e93de09e21..ctor()" />
+<Entry OldName="SplitByte.MailHelper.SendEmail(String from, String to, String body, String subject, String server, String login, String password, Int32 port, Boolean ssl, Boolean send_as_html, List`1 attached_files)" NewName="A.c5ac6e27ba7481e7e01b435e93de09e21.cef0ff385c103cf8f6a5ce75d868617c0(String cfd56ab40622c89f0daa7b65d3a6fc75e, String cac954cc04c0937f8bcd4b85e1aa8113c, String c2b15e565c7d33470a5a52411f73692b4, String c1cc36ec5ed1965b25b3125993b81dc01, String c616851f6b61aa9dd46921ab736748ed1, String ceffba796bb62616ae91faa1096e0960e, String cf4b09272ab1571fc34961dc1dfc2fcde, Int32 ccdb1bd1dce67913e215caf661bb59123, Boolean cae943730bfaa64ea1ef59191afac2517, Boolean c6f82618de38dcc9184bbfe4380faf174, List`1 cf6d009ef6d86e43562727c226d5dda4a)" />
+<Entry OldName="SplitByte.Module..ctor()" NewName="A.cc000a7344d5c93d9678a923d14433208..ctor()" />
+<Entry OldName="SplitByte.Module..cctor()" NewName="A.cc000a7344d5c93d9678a923d14433208..cctor()" />
+<Entry OldName="SplitByte.Module.get_ApplicationTitle()" NewName="A.cc000a7344d5c93d9678a923d14433208.get_cb5ae091359fff8ddee08e84f6aae63b5()" />
+<Entry OldName="SplitByte.Module.get_ShortApplicationTitle()" NewName="A.cc000a7344d5c93d9678a923d14433208.get_c2518351c0588c5fc11b57dfbf3b46f29()" />
+<Entry OldName="SplitByte.Module.SHParseDisplayName(String pszName, IntPtr pbc, IntPtr&amp; ppidl, UInt32 sfgaoIn, UInt32&amp; psfgaoOut)" NewName="A.cc000a7344d5c93d9678a923d14433208.c26749f0d2d98a3789f0bb0bdd4853f70(String ce3bac1130e0245cbb64d41d411fca845, IntPtr c593b3c40c8000b46433a6ed5faebc93f, IntPtr&amp; cb6d89794f967cc927263868eb3813836, UInt32 c1a71e588fbb52977904785e23e9ce371, UInt32&amp; c572a6b4fde27c660ba60e1d835c128cd)" />
+<Entry OldName="SplitByte.Module.SHOpenFolderAndSelectItems(IntPtr pidlFolder, UInt32 cidl, IntPtr[] apidl, UInt32 dwFlags)" NewName="A.cc000a7344d5c93d9678a923d14433208.c7a1ac9a045e94b463ba7b0325cbbb160(IntPtr cdbb29e8a3abe36b2543802876701b891, UInt32 c880755493dc369801710bea4afafb903, IntPtr[] c085d972a15d6c1ac0ec02f01097567c4, UInt32 c040c7d967aa4edfee0cb9eb120592693)" />
+<Entry OldName="SplitByte.Module.SendMessage(IntPtr hWnd, Int32 wMsg, Int32 wParam, Int32 lParam)" NewName="A.cc000a7344d5c93d9678a923d14433208.c0e765fb911f08c550837729363e19c1f(IntPtr cc8e98459e5c7a32a48e8ebee5c50ade8, Int32 c159736106f89bf00e291670142a8b05a, Int32 c446ab10aa407016bd255653929b08f57, Int32 c6a7f4fab46f2181aa3b00ba433537283)" />
+<Entry OldName="SplitByte.Module.LockWindowUpdate(IntPtr hWndLock)" NewName="A.cc000a7344d5c93d9678a923d14433208.cd93f9e31559375722fa926100323e28f(IntPtr c430e05299929d8128b3f225c15df94ff)" />
+<Entry OldName="SplitByte.Module.GetRelativePath(String mainDirPath, String absoluteFilePath)" NewName="A.cc000a7344d5c93d9678a923d14433208.c57c828b3da91e6973644544a2e77edd4(String c38ae87171a3b04aa062a47e4f9465b3d, String c4674546836bb5fb10fa6954abcbc1df5)" />
+<Entry OldName="SplitByte.Module.ShowMessage(String msg)" NewName="A.cc000a7344d5c93d9678a923d14433208.c87dadf6761768034efb35341973de9a6(String c139a797d40b872965503016ff16bae8e)" />
+<Entry OldName="SplitByte.Module.ShowQuestionDialog(String msg, String caption)" NewName="A.cc000a7344d5c93d9678a923d14433208.c3b39faab35a24d20b5f85f50e95bc771(String c139a797d40b872965503016ff16bae8e, String c7a564386da013b360ea380c89d7db82e)" />
+<Entry OldName="SplitByte.Module.ShowQuestionDialogYesFocus(String msg, String caption)" NewName="A.cc000a7344d5c93d9678a923d14433208.cf00e1ebd3358b205229da6f061d829a4(String c139a797d40b872965503016ff16bae8e, String c7a564386da013b360ea380c89d7db82e)" />
+<Entry OldName="SplitByte.Module.ShowError(Exception ex)" NewName="A.cc000a7344d5c93d9678a923d14433208.c2ad53c4a8c8b20b5dcff021a2e5328bc(Exception c1ef3cda6fdec200d1ef691737a974f66)" />
+<Entry OldName="SplitByte.Module.ShowError(String msg)" NewName="A.cc000a7344d5c93d9678a923d14433208.c2ad53c4a8c8b20b5dcff021a2e5328bc(String c139a797d40b872965503016ff16bae8e)" />
+<Entry OldName="SplitByte.Module.ShowError(String msg, Exception ex)" NewName="A.cc000a7344d5c93d9678a923d14433208.c2ad53c4a8c8b20b5dcff021a2e5328bc(String c139a797d40b872965503016ff16bae8e, Exception c1ef3cda6fdec200d1ef691737a974f66)" />
+<Entry OldName="SplitByte.Module.ShowError(String msg, String exstr)" NewName="A.cc000a7344d5c93d9678a923d14433208.c2ad53c4a8c8b20b5dcff021a2e5328bc(String c139a797d40b872965503016ff16bae8e, String c5b832a0b735665af0edc36354e5d8941)" />
+<Entry OldName="SplitByte.Module.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.cc000a7344d5c93d9678a923d14433208.c1f3ad86d68d610cd250099bb5f7450a8(Object cb427e57334aa7da3ad996d5b88389c21, EventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.Module.IsImage(String filepath)" NewName="A.cc000a7344d5c93d9678a923d14433208.c613c609c498e1b8568015fc238dcaf6d(String c035e9b93f76a541c50eca6647ba0ea83)" />
+<Entry OldName="SplitByte.Module.get_Modex64()" NewName="A.cc000a7344d5c93d9678a923d14433208.get_c6aad582e36d082d664bdd5ad0c7f054c()" />
+<Entry OldName="SplitByte.Module.FilePathIsValid(String filepath, Boolean should_exist)" NewName="A.cc000a7344d5c93d9678a923d14433208.c0e46794713c85bb03f076e6259d493aa(String c035e9b93f76a541c50eca6647ba0ea83, Boolean cfbde49e035e30852536cbd890dfdc952)" />
+<Entry OldName="SplitByte.Module.DeleteApplicationSettingsFile()" NewName="A.cc000a7344d5c93d9678a923d14433208.cb1fe240976d7cb8c6ac4a57437f07457()" />
+<Entry OldName="SplitByte.NiceLine.InitializeComponent()" NewName="SplitByte.NiceLine.cffb18d32106e9cb1d292f9f4fd033c15()" />
+<Entry OldName="SplitByte.OwnerDrawnComboBox.InitializeComponent()" NewName="SplitByte.OwnerDrawnComboBox.cffb18d32106e9cb1d292f9f4fd033c15()" />
+<Entry OldName="SplitByte.Program.FreeConsole()" NewName="A.c134134b3f3f6ab5216ae2bd74c5c7fef.cf9436bb19507580a3d68f518ca539a48()" />
+<Entry OldName="SplitByte.Program.AttachConsole(Int32 dwProcessId)" NewName="A.c134134b3f3f6ab5216ae2bd74c5c7fef.c87ca79cc92afb1ff65b4952f0acd8b62(Int32 ccce7646134590ef6a84feeedb44f3371)" />
+<Entry OldName="SplitByte.Program.AllocConsole()" NewName="A.c134134b3f3f6ab5216ae2bd74c5c7fef.c91721797071dbac0fdf1df0de7e3f384()" />
+<Entry OldName="SplitByte.Program.Main(String[] args)" NewName="A.c134134b3f3f6ab5216ae2bd74c5c7fef.c0e553f23c5e1a4e2bb64ff986abfad1e(String[] c04080986aeb582e144ba5740e9bb66fc)" />
+<Entry OldName="SplitByte.ucTextProgressBar.InitializeComponent()" NewName="SplitByte.ucTextProgressBar.cffb18d32106e9cb1d292f9f4fd033c15()" />
+<Entry OldName="SplitByte.UpdateHelper.bwCheckVersion_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="SplitByte.UpdateHelper.cb91f3a28de6a4409eb03ebc798602e33(Object cb427e57334aa7da3ad996d5b88389c21, ProgressChangedEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.UpdateHelper.bwCheckVersion_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="SplitByte.UpdateHelper.c79c4443a25baaa31d2bab8fbe448f6fb(Object cb427e57334aa7da3ad996d5b88389c21, RunWorkerCompletedEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.UpdateHelper.bwCheckVersion_DoWork(Object sender, DoWorkEventArgs e)" NewName="SplitByte.UpdateHelper.ca9b0cc7f0992830f1c013eefc0375d7d(Object cb427e57334aa7da3ad996d5b88389c21, DoWorkEventArgs c7f3148b0f97c1d4a5a797515a31ef952)" />
+<Entry OldName="SplitByte.RegistryHelper..ctor()" NewName="A.c46a0eaa1784177c0d86efa0a74cd545e..ctor()" />
+<Entry OldName="SplitByte.RegistryHelper..cctor()" NewName="A.c46a0eaa1784177c0d86efa0a74cd545e..cctor()" />
+<Entry OldName="SplitByte.RegistryHelper.FillComboBoxWithValues(ComboBox&amp; cmb, String cmbkey)" NewName="A.c46a0eaa1784177c0d86efa0a74cd545e.c8592ed2b27fcb4ea3398b3c01d7b02a1(ComboBox&amp; cb43faa6c9ce09e9871e9a968ac123de8, String c012b92ba0aa6a951df6f9a31e0a723b5)" />
+<Entry OldName="SplitByte.RegistryHelper.GetKeyValue(String keystr)" NewName="A.c46a0eaa1784177c0d86efa0a74cd545e.cbad035ac1d265de84795acd6d687fc01(String ced1cac2e3b4c46ed00cc8fb428ba33b9)" />
+<Entry OldName="SplitByte.RegistryHelper.SetKeyValue(String keystr, String keyvalue)" NewName="A.c46a0eaa1784177c0d86efa0a74cd545e.c15cac561951f52155ab1ff1590d566ab(String ced1cac2e3b4c46ed00cc8fb428ba33b9, String cc33a18365ba51f731632446bdd033271)" />
+<Entry OldName="SplitByte.RegistryHelper.AddValueToComboBox(ComboBox&amp; cmb, String cmbkey)" NewName="A.c46a0eaa1784177c0d86efa0a74cd545e.cf647edb0917a3c82009917116ce596bb(ComboBox&amp; cb43faa6c9ce09e9871e9a968ac123de8, String c012b92ba0aa6a951df6f9a31e0a723b5)" />
+<Entry OldName="SplitByte.RegistryHelper.FixRegistry()" NewName="A.c46a0eaa1784177c0d86efa0a74cd545e.c0f87c3120087f0aa84120157d2b2436d()" />
+<Entry OldName="SplitByte.ResFlags..ctor()" NewName="A.c536c00194660df0df53a439339cc2fc3..ctor()" />
+<Entry OldName="SplitByte.ResFlags.get_ResourceManager()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_ResourceManager()" />
+<Entry OldName="SplitByte.ResFlags.get_Culture()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_Culture()" />
+<Entry OldName="SplitByte.ResFlags.set_Culture(CultureInfo value)" NewName="A.c536c00194660df0df53a439339cc2fc3.set_Culture(CultureInfo value)" />
+<Entry OldName="SplitByte.ResFlags.get_flag_albania()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_albania()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_belarus()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_belarus()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_bulgaria()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_bulgaria()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_china()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_china()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_croatia()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_croatia()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_czech_republic()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_czech_republic()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_denmark()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_denmark()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_estonia()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_estonia()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_finland()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_finland()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_france()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_france()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_georgia()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_georgia()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_germany()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_germany()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_great_britain()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_great_britain()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_greece()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_greece()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_hungary()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_hungary()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_iceland()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_iceland()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_india()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_india()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_indonesia()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_indonesia()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_iran()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_iran()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_ireland()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_ireland()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_israel()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_israel()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_italy()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_italy()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_japan()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_japan()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_kenya()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_kenya()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_latvia()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_latvia()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_lithuania()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_lithuania()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_netherlands()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_netherlands()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_norway()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_norway()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_pakistan()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_pakistan()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_philippines()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_philippines()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_poland()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_poland()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_portugal()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_portugal()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_romania()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_romania()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_russia()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_russia()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_saudi_arabia()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_saudi_arabia()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_serbia_montenegro()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_serbia_montenegro()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_slovakia()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_slovakia()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_slovenia()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_slovenia()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_south_africa()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_south_africa()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_south_korea()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_south_korea()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_spain()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_spain()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_sweden()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_sweden()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_taiwan()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_taiwan()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_thailand()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_thailand()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_turkey()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_turkey()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_ukraine()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_ukraine()" />
+<Entry OldName="SplitByte.ResFlags.get_flag_vietnam()" NewName="A.c536c00194660df0df53a439339cc2fc3.get_flag_vietnam()" />
+<Entry OldName="SplitByte.ResTranslate..ctor()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b..ctor()" />
+<Entry OldName="SplitByte.ResTranslate.get_ResourceManager()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_ResourceManager()" />
+<Entry OldName="SplitByte.ResTranslate.get_Culture()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Culture()" />
+<Entry OldName="SplitByte.ResTranslate.set_Culture(CultureInfo value)" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.set_Culture(CultureInfo value)" />
+<Entry OldName="SplitByte.ResTranslate.get__Custom_()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get__Custom_()" />
+<Entry OldName="SplitByte.ResTranslate.get__Join()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get__Join()" />
+<Entry OldName="SplitByte.ResTranslate.get__Split()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get__Split()" />
+<Entry OldName="SplitByte.ResTranslate.get_A_new_version_has_been_released__Press_the_OK_button_to_download_the_new_version()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_A_new_version_has_been_released__Press_the_OK_button_to_download_the_new_version()" />
+<Entry OldName="SplitByte.ResTranslate.get_A_new_version_has_been_released__Would_you_like_to_download_it_now__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_A_new_version_has_been_released__Would_you_like_to_download_it_now__()" />
+<Entry OldName="SplitByte.ResTranslate.get_An_error_occured__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_An_error_occured__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Change_PDF_Properties()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Change_PDF_Properties()" />
+<Entry OldName="SplitByte.ResTranslate.get_Do_Nothing()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Do_Nothing()" />
+<Entry OldName="SplitByte.ResTranslate.get_Download()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Download()" />
+<Entry OldName="SplitByte.ResTranslate.get_Download_new_version__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Download_new_version__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Emails_were_successfully_sent__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Emails_were_successfully_sent__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Error__Could_not_run_new_Setup_File__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Error__Could_not_run_new_Setup_File__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Error__Could_not_send_Questionnaire__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Error__Could_not_send_Questionnaire__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Error__Setup_File_was_not_downloaded_correctly__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Error__Setup_File_was_not_downloaded_correctly__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Error_Could_not_change_Language__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Error_Could_not_change_Language__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Error_could_not_Decrypt_File__Wrong_Password__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Error_could_not_Decrypt_File__Wrong_Password__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Error_could_not_encrypt_File__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Error_could_not_encrypt_File__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Error_could_not_parse_Arguments__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Error_could_not_parse_Arguments__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Error_could_not_read_File__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Error_could_not_read_File__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Error_could_not_read_from_Registry__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Error_could_not_read_from_Registry__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Error_Could_not_set_Update_Proxy__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Error_Could_not_set_Update_Proxy__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Error_could_not_write_to_Registry__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Error_could_not_write_to_Registry__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Exit_Application()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Exit_Application()" />
+<Entry OldName="SplitByte.ResTranslate.get_Explore_Output_File()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Explore_Output_File()" />
+<Entry OldName="SplitByte.ResTranslate.get_File()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_File()" />
+<Entry OldName="SplitByte.ResTranslate.get_File_does_not_exist__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_File_does_not_exist__()" />
+<Entry OldName="SplitByte.ResTranslate.get_File_was_Split_Successfully__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_File_was_Split_Successfully__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Files_were_Joined_Successfully__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Files_were_Joined_Successfully__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Hibernate()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Hibernate()" />
+<Entry OldName="SplitByte.ResTranslate.get_It_is_necessary_to_upgrade_to_the_latest_version_of_the_application__Press_the_OK_button_to_download_the_new_version()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_It_is_necessary_to_upgrade_to_the_latest_version_of_the_application__Press_the_OK_button_to_download_the_new_version()" />
+<Entry OldName="SplitByte.ResTranslate.get_Join_Files_with_Split_Byte()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Join_Files_with_Split_Byte()" />
+<Entry OldName="SplitByte.ResTranslate.get_Lock_Workstation()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Lock_Workstation()" />
+<Entry OldName="SplitByte.ResTranslate.get_Logoff()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Logoff()" />
+<Entry OldName="SplitByte.ResTranslate.get_Operation_completed_successfully__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Operation_completed_successfully__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Operation_was_Cancelled__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Operation_was_Cancelled__()" />
+<Entry OldName="SplitByte.ResTranslate.get_OUPTUT_()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_OUPTUT_()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_fill_out_the_Questionnaire__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_fill_out_the_Questionnaire__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_insert_a_valid_New_File_Path__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_insert_a_valid_New_File_Path__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_insert_an_Encryption_Password__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_insert_an_Encryption_Password__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_a_desired_file_size_of_the_split_parts__or_the_number_of_parts_the_file_should_be_splitted__n()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_a_desired_file_size_of_the_split_parts__or_the_number_of_parts_the_file_should_be_splitted__n()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_a_Join_Output_Filename__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_a_Join_Output_Filename__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_a_Password__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_a_Password__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_a_Port_Number__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_a_Port_Number__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_a_Recipient_Email_Address()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_a_Recipient_Email_Address()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_a_split_parts_output_folder__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_a_split_parts_output_folder__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_a_Username__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_a_Username__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_a_valid_Destination_Folder__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_a_valid_Destination_Folder__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_a_valid_File__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_a_valid_File__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_a_valid_File_to_Split__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_a_valid_File_to_Split__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_a_valid_First_Split_Part_File__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_a_valid_First_Split_Part_File__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_a_valid_Output_File__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_a_valid_Output_File__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_a_valid_Server_Port__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_a_valid_Server_Port__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_a_valid_split_and_join_file__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_a_valid_split_and_join_file__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_a_valid_Split_File_Output_Folder__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_a_valid_Split_File_Output_Folder__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_a_valid_Split_File_Size__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_a_valid_Split_File_Size__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_a_valid_Split_Input_File__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_a_valid_Split_Input_File__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_an_Account_Name__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_an_Account_Name__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_an_Email_Account_to_use()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_an_Email_Account_to_use()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_an_Email_Address__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_an_Email_Address__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_an_existing_File_to_Split__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_an_existing_File_to_Split__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_an_Interval_in_Seconds_between_Emails()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_an_Interval_in_Seconds_between_Emails()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_an_Outgoing_Server__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_an_Outgoing_Server__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_Files_to_Join__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_Files_to_Join__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_if_the_Split_File_Size_will_be_Bytes__Mega_Bytes_e_t_c_()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_if_the_Split_File_Size_will_be_Bytes__Mega_Bytes_e_t_c_()" />
+<Entry OldName="SplitByte.ResTranslate.get_Please_specify_whether_to_split_or_join_the_file__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Please_specify_whether_to_split_or_join_the_file__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Restart()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Restart()" />
+<Entry OldName="SplitByte.ResTranslate.get_Shutdown()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Shutdown()" />
+<Entry OldName="SplitByte.ResTranslate.get_Sleep()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Sleep()" />
+<Entry OldName="SplitByte.ResTranslate.get_Split_File_with_Split_Byte()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Split_File_with_Split_Byte()" />
+<Entry OldName="SplitByte.ResTranslate.get_Submission_was_cancelled__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Submission_was_cancelled__()" />
+<Entry OldName="SplitByte.ResTranslate.get_The_application_will_now_exit_and_run_the_updated_setup_file()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_The_application_will_now_exit_and_run_the_updated_setup_file()" />
+<Entry OldName="SplitByte.ResTranslate.get_The_two_Files_have_different_MD5_Checksum_Signatures__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_The_two_Files_have_different_MD5_Checksum_Signatures__()" />
+<Entry OldName="SplitByte.ResTranslate.get_The_two_Files_have_the_same_MD5_Checksum_Signatures__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_The_two_Files_have_the_same_MD5_Checksum_Signatures__()" />
+<Entry OldName="SplitByte.ResTranslate.get_This_is_the_latest_version__()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_This_is_the_latest_version__()" />
+<Entry OldName="SplitByte.ResTranslate.get_Unspecified_Error()" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b.get_Unspecified_Error()" />
+<Entry OldName="SplitByte.SplitHelper..ctor()" NewName="A.cd49a4e4dc789518484f35016363f4918..ctor()" />
+<Entry OldName="SplitByte.SplitHelper..cctor()" NewName="A.cd49a4e4dc789518484f35016363f4918..cctor()" />
+<Entry OldName="SplitByte.SplitHelper.SplitFile(String inputFile, Int64 chunkSize, Boolean split_equal_parts, Int32 equal_parts_num, String path, Int32 patternind, Boolean delete_after_split, Boolean keep_timestamp, DateTime timestamp_created, DateTime timestamp_lastupdated, Boolean compress, Boolean encrypt, String encryption_password)" NewName="A.cd49a4e4dc789518484f35016363f4918.c2a1e10a0f455551125f13a2188895dd1(String c1a1d9f64600ef4cb2716f6247126a454, Int64 cd5729ff3df33560706b0adf7424697d4, Boolean c8c2a1b66316679b1e1e8ef9eee79ea27, Int32 c05bb5902f429fcce6a6bbf1d41bdc650, String cd2f26f8578672c3df2aabb1a0a364c4a, Int32 c0baaabf13b105c2179b45e2a1cb84be8, Boolean c102f530953c872451cd5c30502e073da, Boolean c05695d8ff6e04fa6e573fd4ce77c7fd9, DateTime c1fda9bf4047e2f693e6eaf4c20c37579, DateTime c29fe8c2050197dee05135be1f903ab75, Boolean c7cd967831dbb2fa7374dc7de68a3dc01, Boolean cf29f86a0705e75f71502331c87910c24, String cb68b51b51190c3a849502b73ee941457)" />
+<Entry OldName="SplitByte.SplitHelper.GetSplitFilepath(Int32 patternind, String inputFile, String path, Int32 index)" NewName="A.cd49a4e4dc789518484f35016363f4918.c37a623ab5f9e98b2219e7842438e75e7(Int32 c0baaabf13b105c2179b45e2a1cb84be8, String c1a1d9f64600ef4cb2716f6247126a454, String cd2f26f8578672c3df2aabb1a0a364c4a, Int32 cd59af23a6920adb039b6f04232bbda7c)" />
+<Entry OldName="SplitByte.ProgressChange..ctor(Int32 chunknum, TimeSpan elapsed)" NewName="A.cb7f08e29d68aaa31902c477b4db9d19f..ctor(Int32 cb3e9f416f371ee017199ae9623d39d6b, TimeSpan cdf5892deb626d303d5b269f691251bb8)" />
+<Entry OldName="SplitByte.GetSplitFilepathResult..ctor()" NewName="A.c4001ca710c6d8943c5dd3488286fdc18..ctor()" />
+<Entry OldName="SplitByte.TranslateHelper..ctor()" NewName="A.c66bd266bf5c660d2e80ca9918b07c298..ctor()" />
+<Entry OldName="SplitByte.TranslateHelper..cctor()" NewName="A.c66bd266bf5c660d2e80ca9918b07c298..cctor()" />
+<Entry OldName="SplitByte.TranslateHelper.Translate(String str)" NewName="A.c66bd266bf5c660d2e80ca9918b07c298.c7b351e7f36196dece664a8f7a2e12b1c(String ce4ae406f8a3fc9dedd45a6bc7858ec7a)" />
+<Entry OldName="SplitByte.Properties.Resources..ctor()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2..ctor()" />
+<Entry OldName="SplitByte.Properties.Resources.get_ResourceManager()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_ResourceManager()" />
+<Entry OldName="SplitByte.Properties.Resources.get_Culture()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_Culture()" />
+<Entry OldName="SplitByte.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.set_Culture(CultureInfo value)" />
+<Entry OldName="SplitByte.Properties.Resources.get__4dots_logo_official()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get__4dots_logo_official()" />
+<Entry OldName="SplitByte.Properties.Resources.get_about()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_about()" />
+<Entry OldName="SplitByte.Properties.Resources.get_add()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_add()" />
+<Entry OldName="SplitByte.Properties.Resources.get_arrow_right_green()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_arrow_right_green()" />
+<Entry OldName="SplitByte.Properties.Resources.get_arrow_right_green1()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_arrow_right_green1()" />
+<Entry OldName="SplitByte.Properties.Resources.get_bullet_ball_glass_blue()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_bullet_ball_glass_blue()" />
+<Entry OldName="SplitByte.Properties.Resources.get_bullet_ball_glass_red()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_bullet_ball_glass_red()" />
+<Entry OldName="SplitByte.Properties.Resources.get_check()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_check()" />
+<Entry OldName="SplitByte.Properties.Resources.get_copy()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_copy()" />
+<Entry OldName="SplitByte.Properties.Resources.get_delete()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_delete()" />
+<Entry OldName="SplitByte.Properties.Resources.get_disk_blue()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_disk_blue()" />
+<Entry OldName="SplitByte.Properties.Resources.get_edit()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_edit()" />
+<Entry OldName="SplitByte.Properties.Resources.get_exit()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_exit()" />
+<Entry OldName="SplitByte.Properties.Resources.get_flash()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_flash()" />
+<Entry OldName="SplitByte.Properties.Resources.get_folder()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_folder()" />
+<Entry OldName="SplitByte.Properties.Resources.get_help2()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_help2()" />
+<Entry OldName="SplitByte.Properties.Resources.get_information()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_information()" />
+<Entry OldName="SplitByte.Properties.Resources.get_information1()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_information1()" />
+<Entry OldName="SplitByte.Properties.Resources.get_join_file_48()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_join_file_48()" />
+<Entry OldName="SplitByte.Properties.Resources.get_split_file_48()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_split_file_48()" />
+<Entry OldName="SplitByte.Properties.Resources.get_split_file_transp_48b()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_split_file_transp_48b()" />
+<Entry OldName="SplitByte.Properties.Resources.get_view()" NewName="A.c1a6bf039b60b31201df9160ac0da01d2.get_view()" />
+<Entry OldName="SplitByte.ArgsHelper" NewName="A.c155c05210aeda33339988675d0fc0b25" />
+<Entry OldName="SplitByte.CustomProgressBar" NewName="A.c8b5e03f424cc27e6acea4402dc62af80" />
+<Entry OldName="SplitByte.DownloadSuggestionsHelper" NewName="A.c03815956957fd7f983789808b37f2f7f" />
+<Entry OldName="SplitByte.EncryptHelper" NewName="A.c3b596816a365a0837681608ed8128b64" />
+<Entry OldName="SplitByte.ExceptionHandlersHelper" NewName="A.c59d7dcc847eb7cc7a3b1bf931537be4e" />
+<Entry OldName="SplitByte.ImageComboBox" NewName="A.ced8afcde5eb54161d56a072bff86ea3f" />
+<Entry OldName="SplitByte.ComboBoxExItem" NewName="A.c31f2bb8a93daa80045ed35f9cd177e1c" />
+<Entry OldName="SplitByte.JoinHelper" NewName="A.cc3ddc27f06c272507d57cf1a9b57d779" />
+<Entry OldName="SplitByte.MailHelper" NewName="A.c5ac6e27ba7481e7e01b435e93de09e21" />
+<Entry OldName="SplitByte.Module" NewName="A.cc000a7344d5c93d9678a923d14433208" />
+<Entry OldName="SplitByte.Program" NewName="A.c134134b3f3f6ab5216ae2bd74c5c7fef" />
+<Entry OldName="SplitByte.RegistryHelper" NewName="A.c46a0eaa1784177c0d86efa0a74cd545e" />
+<Entry OldName="SplitByte.ResFlags" NewName="A.c536c00194660df0df53a439339cc2fc3" />
+<Entry OldName="SplitByte.ResTranslate" NewName="A.ca268fc014c331f0dd9a5c5f46329bf3b" />
+<Entry OldName="SplitByte.SplitHelper" NewName="A.cd49a4e4dc789518484f35016363f4918" />
+<Entry OldName="SplitByte.ProgressChange" NewName="A.cb7f08e29d68aaa31902c477b4db9d19f" />
+<Entry OldName="SplitByte.GetSplitFilepathResult" NewName="A.c4001ca710c6d8943c5dd3488286fdc18" />
+<Entry OldName="SplitByte.TranslateHelper" NewName="A.c66bd266bf5c660d2e80ca9918b07c298" />
+<Entry OldName="SplitByte.Properties.Resources" NewName="A.c1a6bf039b60b31201df9160ac0da01d2" />
+<Assembly Name="SplitByte"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="SplitByte.ArgsHelper" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663300" Name="IsCommandLine" Variables="" ParamCnt="0" />
+<Method Token="100663301" Name="ExamineArgs" Variables="args;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="1" />
+<Method Token="100663302" Name="ExecuteCommandLine" Variables="V_0;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663303" Name="GetParameter" Variables="arg;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663304" Name="SplitArguments" Variables="commandLine;V_0;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663305" Name="ShowCommandUsage" Variables="" ParamCnt="0" />
+<Field Token="67108865" Name="FromWindowsExplorer" />
+<Field Token="67108866" Name="Split" />
+<Field Token="67108867" Name="Join" />
+<Field Token="67108868" Name="Splitsize" />
+<Field Token="67108869" Name="SplitNum" />
+<Field Token="67108870" Name="OutputFolder" />
+<Field Token="67108871" Name="OutputFilename" />
+<Field Token="67108872" Name="Compress" />
+<Field Token="67108873" Name="Encrypt" />
+<Field Token="67108874" Name="EncryptionPassword" />
+<Field Token="67108875" Name="Delete" />
+<Field Token="67108876" Name="KeepTimestamp" />
+<Field Token="67108877" Name="SplitFilenamePattern" />
+<Field Token="67108878" Name="SplitJoinFile" />
+<Field Token="67108879" Name="Overwrite" />
+<Type Token="33554436" Name="SplitByte.ReadListsResult" />
+<Method Token="100663307" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67108880" Name="Success" />
+<Field Token="67108881" Name="err" />
+<Type Token="33554437" Name="SplitByte.CheckBoxToolTip" />
+<Method Token="100663308" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663309" Name="OnMouseHover" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663310" Name="ChildReallyVisible" Variables="this;child;V_0;" ParamCnt="2" />
+<Field Token="67108882" Name="tooltip" />
+<Type Token="33554439" Name="SplitByte.CustomForm" />
+<Method Token="100663317" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663318" Name="OnPaintBackground" Variables="this;e;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663319" Name="OnLoad" Variables="this;e;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663320" Name="CustomForm_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663321" Name="OnActivated" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663322" Name="ResizeControls" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663323" Name="ResizeChildControls" Variables="this;co;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="2" />
+<Method Token="100663324" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663325" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108884" Name="LoadComplete" />
+<Field Token="67108885" Name="tooltip" />
+<Field Token="67108886" Name="components" />
+<Type Token="33554440" Name="SplitByte.ProgressBarDisplayText" />
+<Field Token="67108887" Name="value__" />
+<Field Token="67108888" Name="Percentage" />
+<Field Token="67108889" Name="CustomText" />
+<Type Token="33554441" Name="SplitByte.CustomProgressBar" />
+<Method Token="100663326" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663327" Name="OnPaint" Variables="this;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;" ParamCnt="2" />
+<Field Token="67108890" Name="DisplayStyle" />
+<Field Token="67108891" Name="CustomText" />
+<Type Token="33554442" Name="SplitByte.DownloadSuggestionsHelper" />
+<Method Token="100663328" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663329" Name="SetupDownloadMenuItems" Variables="this;tsiDownload;V_0;V_1;V_2;V_3;V_4;" ParamCnt="2" />
+<Method Token="100663330" Name="tsi_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Field Token="67108892" Name="tsiDownloadRoot" />
+<Field Token="67108893" Name="Category" />
+<Field Token="67108894" Name="App" />
+<Field Token="67108895" Name="Url" />
+<Type Token="33554443" Name="SplitByte.EncryptHelper" />
+<Method Token="100663331" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663332" Name="DecryptFile" Variables="filepath;password;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663333" Name="EncryptFile" Variables="filepath;Encoding;contents;password;V_0;V_1;" ParamCnt="4" />
+<Method Token="100663334" Name="EncryptString" Variables="Message;Passphrase;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="2" />
+<Method Token="100663335" Name="EncryptBytes" Variables="Message;Passphrase;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="2" />
+<Method Token="100663336" Name="DecryptString" Variables="Message;Passphrase;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="2" />
+<Method Token="100663337" Name="DecryptBytes" Variables="Message;Passphrase;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="2" />
+<Type Token="33554444" Name="SplitByte.ExceptionHandlersHelper" />
+<Method Token="100663338" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663339" Name="AddUnhandledExceptionHandlers" Variables="" ParamCnt="0" />
+<Method Token="100663340" Name="myExceptionHandler" Variables="sender;e;V_0;" ParamCnt="2" />
+<Method Token="100663341" Name="myThreadExceptionHandler" Variables="sender;e;" ParamCnt="2" />
+<Type Token="33554445" Name="SplitByte.frmAbout" />
+<Method Token="100663342" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663343" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663344" Name="frmAbout_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663345" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663346" Name="linkLabel1_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663347" Name="linkLabel2_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663348" Name="btnBuy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663349" Name="btnRegister_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663350" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663351" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108896" Name="lblf" />
+<Field Token="67108897" Name="bufluf" />
+<Field Token="67108898" Name="lstbufluf" />
+<Field Token="67108899" Name="LDT" />
+<Field Token="67108900" Name="components" />
+<Field Token="67108901" Name="lblAbout" />
+<Field Token="67108902" Name="btnClose" />
+<Field Token="67108903" Name="pictureBox1" />
+<Field Token="67108904" Name="linkLabel1" />
+<Field Token="67108905" Name="label1" />
+<Field Token="67108906" Name="label2" />
+<Field Token="67108907" Name="linkLabel2" />
+<Field Token="67108908" Name="niceLine1" />
+<Field Token="67108909" Name="niceLine3" />
+<Field Token="67108910" Name="label3" />
+<Field Token="67108911" Name="ullProductWebpage" />
+<Field Token="67108912" Name="btnBuy" />
+<Field Token="67108913" Name="lblRegistered" />
+<Field Token="67108914" Name="btnRegister" />
+<Field Token="67108915" Name="niceLine2" />
+<Field Token="67108916" Name="label4" />
+<Field Token="67108917" Name="lblLicenseKey" />
+<Field Token="67108918" Name="niceLine4" />
+<Type Token="33554446" Name="SplitByte.frmDownloadUpdate" />
+<Method Token="100663352" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663353" Name="get_DownloadFile" Variables="this;V_0;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663354" Name="get_DownloadURL" Variables="this;" ParamCnt="1" />
+<Method Token="100663355" Name="frmDownloadUpdate_Load" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663356" Name="client_DownloadFileCompleted" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663357" Name="client_DownloadProgressChanged" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663358" Name="GetEXEDownloadURL" Variables="this;V_0;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663359" Name="btnCancelDownload_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663360" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663361" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108919" Name="_DownloadFile" />
+<Field Token="67108920" Name="client" />
+<Field Token="67108921" Name="Cancelled" />
+<Field Token="67108922" Name="components" />
+<Field Token="67108923" Name="pgBar" />
+<Field Token="67108924" Name="btnCancelDownload" />
+<Field Token="67108925" Name="bwDownload" />
+<Field Token="67108926" Name="label1" />
+<Field Token="67108927" Name="lblTotalSize" />
+<Type Token="33554447" Name="SplitByte.frmEmail" />
+<Method Token="100663362" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663363" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663364" Name="btnNewAccount_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663365" Name="ReadEmailAccounts" Variables="this;V_0;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663366" Name="frmEmail_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663367" Name="bwSend_DoWork" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663368" Name="bwSend_ProgressChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663369" Name="bwSend_RunWorkerCompleted" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663370" Name="btnOK_Click" Variables="this;sender;e;V_0;V_1;V_2;" ParamCnt="3" />
+<Method Token="100663371" Name="bwRefresh_DoWork" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663372" Name="bwRefresh_ProgressChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663373" Name="frmEmail_KeyUp" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663374" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663375" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108928" Name="CurrentFile" />
+<Field Token="67108929" Name="err" />
+<Field Token="67108930" Name="to" />
+<Field Token="67108931" Name="body" />
+<Field Token="67108932" Name="from" />
+<Field Token="67108933" Name="server" />
+<Field Token="67108934" Name="port" />
+<Field Token="67108935" Name="username" />
+<Field Token="67108936" Name="password" />
+<Field Token="67108937" Name="ssl" />
+<Field Token="67108938" Name="interval" />
+<Field Token="67108939" Name="components" />
+<Field Token="67108940" Name="cmbAccountName" />
+<Field Token="67108941" Name="btnNewAccount" />
+<Field Token="67108942" Name="label1" />
+<Field Token="67108943" Name="cmbTo" />
+<Field Token="67108944" Name="txtBody" />
+<Field Token="67108945" Name="label2" />
+<Field Token="67108946" Name="label3" />
+<Field Token="67108947" Name="btnCancel" />
+<Field Token="67108948" Name="btnOK" />
+<Field Token="67108949" Name="progressBar1" />
+<Field Token="67108950" Name="bwSend" />
+<Field Token="67108951" Name="bwRefresh" />
+<Type Token="33554449" Name="SplitByte.frmEmailAccount" />
+<Method Token="100663379" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663380" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663381" Name="btnOK_Click" Variables="this;sender;e;V_0;V_1;V_2;V_3;" ParamCnt="3" />
+<Method Token="100663382" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663383" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108953" Name="components" />
+<Field Token="67108954" Name="label1" />
+<Field Token="67108955" Name="txtAccountName" />
+<Field Token="67108956" Name="txtServer" />
+<Field Token="67108957" Name="label2" />
+<Field Token="67108958" Name="chkSSL" />
+<Field Token="67108959" Name="label3" />
+<Field Token="67108960" Name="txtPort" />
+<Field Token="67108961" Name="txtPassword" />
+<Field Token="67108962" Name="label4" />
+<Field Token="67108963" Name="txtUsername" />
+<Field Token="67108964" Name="label5" />
+<Field Token="67108965" Name="btnCancel" />
+<Field Token="67108966" Name="btnOK" />
+<Field Token="67108967" Name="txtAddress" />
+<Field Token="67108968" Name="label6" />
+<Field Token="67108969" Name="txtInterval" />
+<Field Token="67108970" Name="label7" />
+<Type Token="33554450" Name="SplitByte.frmEncryptionPassword" />
+<Method Token="100663384" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663385" Name="chkShowPassword_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663386" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663387" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663388" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663389" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108971" Name="components" />
+<Field Token="67108972" Name="btnOK" />
+<Field Token="67108973" Name="btnCancel" />
+<Field Token="67108974" Name="chkShowPassword" />
+<Field Token="67108975" Name="label1" />
+<Field Token="67108976" Name="txtPassword" />
+<Type Token="33554451" Name="SplitByte.frmLanguage" />
+<Method Token="100663390" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663391" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663392" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663393" Name="DownloadLanguage" Variables="langcode;lastversion;languagesdownloaded;resetlangdown;V_0;V_1;V_2;V_3;V_4;" ParamCnt="4" />
+<Method Token="100663394" Name="SetLanguages" Variables="" ParamCnt="0" />
+<Method Token="100663395" Name="frmLanguage_Load" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663396" Name="SetLanguage" Variables="V_0;V_1;V_2;V_3;V_4;" ParamCnt="0" />
+<Method Token="100663397" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663398" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108977" Name="LangCodes" />
+<Field Token="67108978" Name="LangDesc" />
+<Field Token="67108979" Name="LangImg" />
+<Field Token="67108980" Name="SelectedLanguageCode" />
+<Field Token="67108981" Name="LangURL" />
+<Field Token="67108982" Name="RegKeyName" />
+<Field Token="67108983" Name="components" />
+<Field Token="67108984" Name="label1" />
+<Field Token="67108985" Name="cmbLanguage" />
+<Field Token="67108986" Name="btnOK" />
+<Type Token="33554453" Name="SplitByte.frmMain" />
+<Method Token="100663406" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663407" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663408" Name="AddFileFromWindowsExplorer" Variables="this;filepath;" ParamCnt="2" />
+<Method Token="100663409" Name="btnBrowseSplitFile_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663410" Name="btnBrowseOutputFolder_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663411" Name="SetupOnLoad" Variables="this;V_0;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663412" Name="frmMain_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663413" Name="cmbSplitSize_SelectedIndexChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663414" Name="bwSplit_ProgressChanged" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663415" Name="btnSplit_Click" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663416" Name="bwSplit_DoWork" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663417" Name="chkSpitNumberParts_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663418" Name="chkSplitSize_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663419" Name="exitToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663420" Name="btnJoinFirstPartBrowse_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663421" Name="btnJoinBrowseOutputFile_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663422" Name="btnJoin_Click" Variables="this;sender;e;V_0;V_1;V_2;" ParamCnt="3" />
+<Method Token="100663423" Name="bwJoin_DoWork" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663424" Name="bwJoin_ProgressChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663425" Name="bwJoin_RunWorkerCompleted" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663426" Name="bwSplit_RunWorkerCompleted" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663427" Name="aboutToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663428" Name="GetAsyncMD5FirstCombo" Variables="this;filepath;V_0;" ParamCnt="2" />
+<Method Token="100663429" Name="GetAsyncMD5SecondCombo" Variables="this;filepath;V_0;" ParamCnt="2" />
+<Method Token="100663430" Name="btnMD5InputFileBrowse_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663431" Name="GetMD5FirstCombo" Variables="this;filepath;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663432" Name="GetMD5SecondCombo" Variables="this;filepath;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663433" Name="GetMD5HashFromFile" Variables="this;fileName;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663434" Name="btnMD5Copy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663435" Name="cmbMD5InputFile_KeyUp" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663436" Name="btnMD5ComparisonCopy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663437" Name="btnMD5ComparisonBrowse_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663438" Name="cmbMD5ComparisonFile_KeyUp" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663439" Name="CompareMD5Signatures" Variables="this;" ParamCnt="1" />
+<Method Token="100663440" Name="downloadFreePDFPasswordRemoverToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663441" Name="downloadFreePDFMetadataEditorToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663442" Name="downloadPDFEncrypterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663443" Name="downloadMultipleSearchAndReplaceToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663444" Name="downloadPDFMergeSplitToolToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663445" Name="downloadFreeFileUnlockerToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663446" Name="downloadImgTransformerToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663447" Name="downloadFreeImagemapperToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663448" Name="downloadCopyPathToClipboardToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663449" Name="downloadCopyTextContentsToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663450" Name="downloadOpenCommandPromptHereToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663451" Name="downloadFreeColorwheelToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663452" Name="visit4dotsSoftwareWebsiteToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663453" Name="downloadDocusTreeToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663454" Name="feedbackToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663455" Name="visit4dotsSoftwareWebsiteToolStripMenuItem_Click_1" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663456" Name="tabPage1_DragEnter" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663457" Name="tabPage1_DragDrop" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663458" Name="tabPage2_DragDrop" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663459" Name="tabPage2_DragEnter" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663460" Name="tabControl1_DragEnter" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663461" Name="tabControl1_DragDrop" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663462" Name="tabPage1_DragOver" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663463" Name="tabPage2_DragOver" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663464" Name="tabControl1_DragOver" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663465" Name="nudEqualParts_ValueChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663466" Name="cmbSplitSize_TextChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663467" Name="cmbSplitSizeType_SelectedIndexChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663468" Name="cmbSplitInputFile_KeyUp" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663469" Name="cmbMD5InputFile_SelectedIndexChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663470" Name="cmbMD5ComparisonFile_SelectedIndexChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663471" Name="cmbSplitOutputFolder_SelectedIndexChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663472" Name="CheckSplitOutputFolder" Variables="this;" ParamCnt="1" />
+<Method Token="100663473" Name="cmbSplitOutputFolder_KeyUp" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663474" Name="frmMain_KeyUp" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663475" Name="cmbSplitInputFile_SelectedIndexChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663476" Name="cmbJoinFirstPart_SelectedIndexChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663477" Name="bwMD5_DoWork" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663478" Name="bwMD5_ProgressChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663479" Name="bwMD5_RunWorkerCompleted" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663480" Name="splitByteUsersGuideToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663481" Name="tabControl1_SelectedIndexChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663482" Name="frmMain_FormClosing" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663483" Name="tabPage3_DragDrop" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663484" Name="tabPage3_DragEnter" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663485" Name="tabPage3_DragOver" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663486" Name="downloadLatestVersionToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663487" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663488" Name="visit4dotsSoftwareWebsiteToolStripMenuItem_Click_2" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663489" Name="followUsOnTwitterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663490" Name="setUpdateProxyToolStripMenuItem_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663491" Name="helpGuideToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663492" Name="AddLanguageMenuItems" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663493" Name="tiLang_Click" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663494" Name="ChangeLanguage" Variables="this;language_code;" ParamCnt="2" />
+<Method Token="100663495" Name="cmbJoinFirstPart_TextChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663496" Name="cmbSplitInputFile_TextChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663497" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663498" Name="frmMain_KeyPress" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663499" Name="timElapsed_Tick" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663500" Name="ProcessSplitWhenFinished" Variables="this;" ParamCnt="1" />
+<Method Token="100663501" Name="ProcessJoinWhenFinished" Variables="this;" ParamCnt="1" />
+<Method Token="100663502" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663503" Name="InitializeComponent" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67108993" Name="Instance" />
+<Field Token="67108994" Name="CmbCustomInd" />
+<Field Token="67108995" Name="splitfile" />
+<Field Token="67108996" Name="chunksize" />
+<Field Token="67108997" Name="splitfolder" />
+<Field Token="67108998" Name="splitfnind" />
+<Field Token="67108999" Name="split_keep_timestamp" />
+<Field Token="67109000" Name="split_delete_afterwards" />
+<Field Token="67109001" Name="split_dtcreated" />
+<Field Token="67109002" Name="split_dtupdated" />
+<Field Token="67109003" Name="split_equal_parts" />
+<Field Token="67109004" Name="split_equal_parts_num" />
+<Field Token="67109005" Name="split_compress" />
+<Field Token="67109006" Name="split_encrypt" />
+<Field Token="67109007" Name="split_encryption_password" />
+<Field Token="67109008" Name="join_delete_files" />
+<Field Token="67109009" Name="join_keeptimestamp" />
+<Field Token="67109010" Name="join_files" />
+<Field Token="67109011" Name="join_explicit_files" />
+<Field Token="67109012" Name="join_output_file" />
+<Field Token="67109013" Name="IsDragging" />
+<Field Token="67109014" Name="InKeyUp" />
+<Field Token="67109015" Name="SetResultMD5" />
+<Field Token="67109016" Name="TickCount" />
+<Field Token="67109017" Name="components" />
+<Field Token="67109018" Name="tabControl1" />
+<Field Token="67109019" Name="tabPage1" />
+<Field Token="67109020" Name="label2" />
+<Field Token="67109021" Name="btnBrowseSplitFile" />
+<Field Token="67109022" Name="label1" />
+<Field Token="67109023" Name="tabPage2" />
+<Field Token="67109024" Name="cmbSplitSize" />
+<Field Token="67109025" Name="label3" />
+<Field Token="67109026" Name="nudEqualParts" />
+<Field Token="67109027" Name="btnBrowseOutputFolder" />
+<Field Token="67109028" Name="cmbSplitSizeType" />
+<Field Token="67109029" Name="chkSplitCompress" />
+<Field Token="67109030" Name="chkSplitEncrypt" />
+<Field Token="67109031" Name="chkSplitDelete" />
+<Field Token="67109032" Name="chkSplitTimestamp" />
+<Field Token="67109033" Name="openFileDialog1" />
+<Field Token="67109034" Name="folderBrowserDialog1" />
+<Field Token="67109035" Name="progressBar1" />
+<Field Token="67109036" Name="bwSplit" />
+<Field Token="67109037" Name="btnSplit" />
+<Field Token="67109038" Name="groupBox1" />
+<Field Token="67109039" Name="label4" />
+<Field Token="67109040" Name="cmbSplitFnPattern" />
+<Field Token="67109041" Name="groupBox3" />
+<Field Token="67109042" Name="chkJoinTimeStamp" />
+<Field Token="67109043" Name="chkJoinDelete" />
+<Field Token="67109044" Name="cmbSplitInputFile" />
+<Field Token="67109045" Name="cmbSplitOutputFolder" />
+<Field Token="67109046" Name="btnJoinBrowseOutputFile" />
+<Field Token="67109047" Name="cmbJoinFirstPart" />
+<Field Token="67109048" Name="cmbJoinOutputFile" />
+<Field Token="67109049" Name="label5" />
+<Field Token="67109050" Name="btnJoinFirstPartBrowse" />
+<Field Token="67109051" Name="label6" />
+<Field Token="67109052" Name="tabPage3" />
+<Field Token="67109053" Name="btnMD5Copy" />
+<Field Token="67109054" Name="cmbMD5Signature" />
+<Field Token="67109055" Name="label8" />
+<Field Token="67109056" Name="cmbMD5InputFile" />
+<Field Token="67109057" Name="btnMD5InputFileBrowse" />
+<Field Token="67109058" Name="label7" />
+<Field Token="67109059" Name="chkJoinSpecifyFiles" />
+<Field Token="67109060" Name="menuStrip1" />
+<Field Token="67109061" Name="fileToolStripMenuItem" />
+<Field Token="67109062" Name="exitToolStripMenuItem" />
+<Field Token="67109063" Name="downloadToolStripMenuItem" />
+<Field Token="67109064" Name="languageToolStripMenuItem" />
+<Field Token="67109065" Name="helpToolStripMenuItem" />
+<Field Token="67109066" Name="feedbackToolStripMenuItem" />
+<Field Token="67109067" Name="aboutToolStripMenuItem" />
+<Field Token="67109068" Name="pictureBox1" />
+<Field Token="67109069" Name="label9" />
+<Field Token="67109070" Name="label10" />
+<Field Token="67109071" Name="pictureBox2" />
+<Field Token="67109072" Name="bwJoin" />
+<Field Token="67109073" Name="chkSplitExplore" />
+<Field Token="67109074" Name="chkJoinExplore" />
+<Field Token="67109075" Name="btnMD5ComparisonCopy" />
+<Field Token="67109076" Name="cmbMD5ComparisonSignature" />
+<Field Token="67109077" Name="label11" />
+<Field Token="67109078" Name="cmbMD5ComparisonFile" />
+<Field Token="67109079" Name="label12" />
+<Field Token="67109080" Name="btnMD5ComparisonBrowse" />
+<Field Token="67109081" Name="chkJoinShutdown" />
+<Field Token="67109082" Name="chkSplitShutdown" />
+<Field Token="67109083" Name="chkSplitEmail" />
+<Field Token="67109084" Name="bwMD5" />
+<Field Token="67109085" Name="chkSpitNumberParts" />
+<Field Token="67109086" Name="chkSplitSize" />
+<Field Token="67109087" Name="label13" />
+<Field Token="67109088" Name="languages1ToolStripMenuItem" />
+<Field Token="67109089" Name="languages2ToolStripMenuItem" />
+<Field Token="67109090" Name="helpGuideToolStripMenuItem" />
+<Field Token="67109091" Name="setUpdateProxyToolStripMenuItem" />
+<Field Token="67109092" Name="toolStripMenuItem1" />
+<Field Token="67109093" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem" />
+<Field Token="67109094" Name="visit4dotsSoftwareWebsiteToolStripMenuItem" />
+<Field Token="67109095" Name="followUsOnTwitterToolStripMenuItem" />
+<Field Token="67109096" Name="downloadLatestVersionToolStripMenuItem" />
+<Field Token="67109097" Name="btnCancel" />
+<Field Token="67109098" Name="lblTimeElapsedDesc" />
+<Field Token="67109099" Name="lblTimeElapsed" />
+<Field Token="67109100" Name="lblTimeRemaining" />
+<Field Token="67109101" Name="lblTimeRemainingDesc" />
+<Field Token="67109102" Name="timElapsed" />
+<Field Token="67109103" Name="cmbSplitWhenDone" />
+<Field Token="67109104" Name="cmbJoinWhenDone" />
+<Type Token="33554454" Name="SplitByte.OverwriteOption" />
+<Field Token="67109105" Name="value__" />
+<Field Token="67109106" Name="Overwrite" />
+<Field Token="67109107" Name="Rename" />
+<Field Token="67109108" Name="Skip" />
+<Field Token="67109109" Name="Ask" />
+<Type Token="33554455" Name="SplitByte.frmOverwrite" />
+<Method Token="100663504" Name=".ctor" Variables="this;filepath;" ParamCnt="2" />
+<Method Token="100663505" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663506" Name="frmOverwrite_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663507" Name="btnOverwrite_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663508" Name="btnRename_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663509" Name="btnSkip_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663510" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663511" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109110" Name="OverwriteOption" />
+<Field Token="67109111" Name="DefaultOverwriteOption" />
+<Field Token="67109112" Name="OverNewFilepath" />
+<Field Token="67109113" Name="components" />
+<Field Token="67109114" Name="pictureBox1" />
+<Field Token="67109115" Name="label1" />
+<Field Token="67109116" Name="lblFile" />
+<Field Token="67109117" Name="btnRename" />
+<Field Token="67109118" Name="btnOverwrite" />
+<Field Token="67109119" Name="btnSkip" />
+<Field Token="67109120" Name="chkDoForAll" />
+<Type Token="33554456" Name="SplitByte.frmOverwriteNewFilename" />
+<Method Token="100663512" Name=".ctor" Variables="this;oldfilepath;" ParamCnt="2" />
+<Method Token="100663513" Name="btnBrowseFile_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663514" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663515" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663516" Name="frmOverwriteNewFilename_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663517" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663518" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109121" Name="components" />
+<Field Token="67109122" Name="label1" />
+<Field Token="67109123" Name="lblOldFilename" />
+<Field Token="67109124" Name="label2" />
+<Field Token="67109125" Name="btnBrowseFile" />
+<Field Token="67109126" Name="btnCancel" />
+<Field Token="67109127" Name="btnOK" />
+<Field Token="67109128" Name="openFileDialog1" />
+<Field Token="67109129" Name="txtNewFilename" />
+<Type Token="33554457" Name="SplitByte.frmShutdown" />
+<Method Token="100663519" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663520" Name="timer1_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663521" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663522" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663523" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109130" Name="Seconds" />
+<Field Token="67109131" Name="components" />
+<Field Token="67109132" Name="label1" />
+<Field Token="67109133" Name="lblSeconds" />
+<Field Token="67109134" Name="label3" />
+<Field Token="67109135" Name="btnCancel" />
+<Field Token="67109136" Name="timer1" />
+<Type Token="33554458" Name="SplitByte.frmSpecifyFiles" />
+<Method Token="100663524" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663525" Name="btnJoinFirstPartBrowse_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663526" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663527" Name="btnOK_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663528" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663529" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109137" Name="components" />
+<Field Token="67109138" Name="label1" />
+<Field Token="67109139" Name="openFileDialog1" />
+<Field Token="67109140" Name="btnJoinFirstPartBrowse" />
+<Field Token="67109141" Name="txtSpecificFiles" />
+<Field Token="67109142" Name="btnCancel" />
+<Field Token="67109143" Name="btnOK2" />
+<Type Token="33554459" Name="SplitByte.frmUninstallQuestionnaire" />
+<Method Token="100663530" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663531" Name=".ctor" Variables="this;_onuninstall;" ParamCnt="2" />
+<Method Token="100663532" Name="btnExit_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663533" Name="btnOK_Click" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="3" />
+<Method Token="100663534" Name="frmUninstallQuestionnaire_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663535" Name="txtOpinion_TextChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663536" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663537" Name="InitializeComponent" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67109144" Name="OnUninstall" />
+<Field Token="67109145" Name="components" />
+<Field Token="67109146" Name="label1" />
+<Field Token="67109147" Name="label2" />
+<Field Token="67109148" Name="label3" />
+<Field Token="67109149" Name="btnOK" />
+<Field Token="67109150" Name="btnExit" />
+<Field Token="67109151" Name="txtLike" />
+<Field Token="67109152" Name="txtBuy" />
+<Field Token="67109153" Name="label4" />
+<Field Token="67109154" Name="txtEmail" />
+<Field Token="67109155" Name="txtOpinion" />
+<Field Token="67109156" Name="label5" />
+<Type Token="33554460" Name="SplitByte.ImageComboBox" />
+<Method Token="100663538" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663539" Name="get_ImageList" Variables="this;" ParamCnt="1" />
+<Method Token="100663540" Name="set_ImageList" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663541" Name="OnDrawItem" Variables="this;ea;V_0;V_1;V_2;" ParamCnt="2" />
+<Field Token="67109157" Name="imageList" />
+<Type Token="33554461" Name="SplitByte.ComboBoxExItem" />
+<Method Token="100663542" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663543" Name=".ctor" Variables="this;text;" ParamCnt="2" />
+<Method Token="100663544" Name=".ctor" Variables="this;text;imageIndex;" ParamCnt="3" />
+<Method Token="100663545" Name="get_Text" Variables="this;" ParamCnt="1" />
+<Method Token="100663546" Name="set_Text" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663547" Name="get_ImageIndex" Variables="this;" ParamCnt="1" />
+<Method Token="100663548" Name="set_ImageIndex" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663549" Name="ToString" Variables="this;" ParamCnt="1" />
+<Field Token="67109158" Name="_text" />
+<Field Token="67109159" Name="_imageIndex" />
+<Type Token="33554462" Name="SplitByte.JoinHelper" />
+<Method Token="100663550" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663551" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663552" Name="GetListOfParts" Variables="inputFile;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;V_23;V_24;V_25;V_26;V_27;V_28;V_29;V_30;V_31;V_32;V_33;V_34;V_35;V_36;V_37;V_38;V_39;V_40;V_41;V_42;V_43;V_44;V_45;V_46;V_47;V_48;V_49;V_50;V_51;V_52;V_53;V_54;V_55;" ParamCnt="1" />
+<Method Token="100663553" Name="FindNextAAA" Variables="ind_part;V_0;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663554" Name="FindNextA" Variables="ind_part;V_0;" ParamCnt="1" />
+<Method Token="100663555" Name="JoinFiles" Variables="files;files_explicit;output_file;delete_after_join;keep_timestamp;password;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;V_23;V_24;V_25;V_26;V_27;V_28;" ParamCnt="6" />
+<Method Token="100663556" Name="Decompress" Variables="gzip;V_0;V_1;V_2;V_3;V_4;" ParamCnt="1" />
+<Field Token="67109160" Name="Password" />
+<Field Token="67109161" Name="JoinOutputFile" />
+<Type Token="33554463" Name="SplitByte.LabelToolTip" />
+<Method Token="100663557" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663558" Name="OnMouseHover" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663559" Name="ChildReallyVisible" Variables="this;child;V_0;" ParamCnt="2" />
+<Method Token="100663560" Name="ChildReallyVisible2" Variables="this;child;V_0;" ParamCnt="2" />
+<Field Token="67109162" Name="tooltip" />
+<Type Token="33554464" Name="SplitByte.MailHelper" />
+<Method Token="100663561" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663562" Name="SendEmail" Variables="from;to;body;subject;server;login;password;port;ssl;send_as_html;attached_files;V_0;V_1;V_2;V_3;" ParamCnt="11" />
+<Type Token="33554465" Name="SplitByte.MailDetails" />
+<Method Token="100663563" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109163" Name="fromDisplayName" />
+<Field Token="67109164" Name="from" />
+<Field Token="67109165" Name="to" />
+<Field Token="67109166" Name="body" />
+<Field Token="67109167" Name="subject" />
+<Field Token="67109168" Name="date" />
+<Type Token="33554466" Name="SplitByte.Module" />
+<Method Token="100663564" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663565" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663566" Name="get_ApplicationTitle" Variables="" ParamCnt="0" />
+<Method Token="100663567" Name="get_ShortApplicationTitle" Variables="" ParamCnt="0" />
+<Method Token="100663568" Name="SHParseDisplayName" Variables="pszName;pbc;ppidl;sfgaoIn;psfgaoOut;" ParamCnt="5" />
+<Method Token="100663569" Name="SHOpenFolderAndSelectItems" Variables="pidlFolder;cidl;apidl;dwFlags;" ParamCnt="4" />
+<Method Token="100663570" Name="SendMessage" Variables="hWnd;wMsg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663571" Name="LockWindowUpdate" Variables="hWndLock;" ParamCnt="1" />
+<Method Token="100663572" Name="GetRelativePath" Variables="mainDirPath;absoluteFilePath;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;" ParamCnt="2" />
+<Method Token="100663573" Name="ShowMessage" Variables="msg;" ParamCnt="1" />
+<Method Token="100663574" Name="ShowQuestionDialog" Variables="msg;caption;" ParamCnt="2" />
+<Method Token="100663575" Name="ShowQuestionDialogYesFocus" Variables="msg;caption;" ParamCnt="2" />
+<Method Token="100663576" Name="ShowError" Variables="ex;" ParamCnt="1" />
+<Method Token="100663577" Name="ShowError" Variables="msg;" ParamCnt="1" />
+<Method Token="100663578" Name="ShowError" Variables="msg;ex;" ParamCnt="2" />
+<Method Token="100663579" Name="ShowError" Variables="msg;exstr;" ParamCnt="2" />
+<Method Token="100663580" Name="CurrentDomain_ProcessExit" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663581" Name="IsImage" Variables="filepath;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663582" Name="get_Modex64" Variables="" ParamCnt="0" />
+<Method Token="100663583" Name="FilePathIsValid" Variables="filepath;should_exist;" ParamCnt="2" />
+<Method Token="100663584" Name="DeleteApplicationSettingsFile" Variables="V_0;" ParamCnt="0" />
+<Field Token="67109169" Name="Version" />
+<Field Token="67109170" Name="Portable" />
+<Field Token="67109171" Name="HelpURL" />
+<Field Token="67109172" Name="DownloadURL" />
+<Field Token="67109173" Name="ProductWebpageURL" />
+<Field Token="67109174" Name="VersionURL" />
+<Field Token="67109175" Name="StoreUrl" />
+<Field Token="67109176" Name="SelectedLanguage" />
+<Field Token="67109177" Name="args" />
+<Field Token="67109178" Name="IsCommandLine" />
+<Field Token="67109179" Name="IsExtensionJoin" />
+<Field Token="67109180" Name="IsFromWindowsExplorer" />
+<Field Token="67109181" Name="IsFromOpenWith" />
+<Field Token="67109182" Name="UserDocumentsFolder" />
+<Field Token="67109183" Name="CmdMerge" />
+<Field Token="67109184" Name="CmdSplit" />
+<Field Token="67109185" Name="CmdDelete" />
+<Field Token="67109186" Name="CmdExtract" />
+<Field Token="67109187" Name="CmdPageFrom" />
+<Field Token="67109188" Name="CmdPageTo" />
+<Field Token="67109189" Name="CmdPageOddFrom" />
+<Field Token="67109190" Name="CmdPageOddTo" />
+<Field Token="67109191" Name="CmdPageEvenFrom" />
+<Field Token="67109192" Name="CmdPageEvenTo" />
+<Field Token="67109193" Name="CmdPageEvery" />
+<Field Token="67109194" Name="CmdPageEveryFrom" />
+<Field Token="67109195" Name="CmdPageEveryTo" />
+<Field Token="67109196" Name="CmdPageRange" />
+<Field Token="67109197" Name="CmdPageContaining" />
+<Field Token="67109198" Name="CmdTitle" />
+<Field Token="67109199" Name="CmdAuthor" />
+<Field Token="67109200" Name="CmdKeywords" />
+<Field Token="67109201" Name="CmdSubject" />
+<Field Token="67109202" Name="CmdOwnerPassword" />
+<Field Token="67109203" Name="CmdUserPassword" />
+<Field Token="67109204" Name="CmdOutputFile" />
+<Field Token="67109205" Name="CmdOutputFolder" />
+<Field Token="67109206" Name="CmdHeaderText" />
+<Field Token="67109207" Name="CmdFooterText" />
+<Field Token="67109208" Name="CmdSplitBookmarks" />
+<Field Token="67109209" Name="CmdSplitBlank" />
+<Field Token="67109210" Name="CmdAddSubdirectories" />
+<Field Token="67109211" Name="CmdFiles" />
+<Field Token="67109212" Name="SelectedFilepaths" />
+<Field Token="67109213" Name="SelectedOperations" />
+<Field Token="67109214" Name="SelectedParameters" />
+<Field Token="67109215" Name="PresetFile" />
+<Field Token="67109216" Name="ImageFilter" />
+<Field Token="67109217" Name="ImageFilterForSave" />
+<Field Token="67109218" Name="DialogFilesFilter" />
+<Field Token="67109219" Name="ImagePattern" />
+<Field Token="67109220" Name="DoNotOverwriteFiles" />
+<Field Token="67109221" Name="AskBeforeOverwrite" />
+<Field Token="67109222" Name="LeaveSameDateTime" />
+<Field Token="67109223" Name="_Modex64" />
+<Type Token="33554467" Name="SplitByte.MD5Arg" />
+<Method Token="100663585" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109224" Name="FirstCombo" />
+<Field Token="67109225" Name="Filepath" />
+<Type Token="33554468" Name="SplitByte.MD5Result" />
+<Method Token="100663586" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109226" Name="FirstCombo" />
+<Field Token="67109227" Name="MD5Hash" />
+<Field Token="67109228" Name="Filepath" />
+<Type Token="33554469" Name="SplitByte.NiceLine" />
+<Method Token="100663587" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663588" Name="get_Caption" Variables="this;" ParamCnt="1" />
+<Method Token="100663589" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663590" Name="get_CaptionMarginSpace" Variables="this;" ParamCnt="1" />
+<Method Token="100663591" Name="set_CaptionMarginSpace" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663592" Name="get_CaptionPadding" Variables="this;" ParamCnt="1" />
+<Method Token="100663593" Name="set_CaptionPadding" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663594" Name="get_LineVerticalAlign" Variables="this;" ParamCnt="1" />
+<Method Token="100663595" Name="set_LineVerticalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663596" Name="get_CaptionOrizontalAlign" Variables="this;" ParamCnt="1" />
+<Method Token="100663597" Name="set_CaptionOrizontalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663598" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663599" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663600" Name="OnPaint" Variables="this;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;" ParamCnt="2" />
+<Method Token="100663601" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663602" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
+<Field Token="67109229" Name="components" />
+<Field Token="67109230" Name="_Caption" />
+<Field Token="67109231" Name="_CaptionMarginSpace" />
+<Field Token="67109232" Name="_CaptionPadding" />
+<Field Token="67109233" Name="_LineVerticalAlign" />
+<Field Token="67109234" Name="_CaptionOrizontalAlign" />
+<Type Token="33554470" Name="SplitByte.LineVerticalAlign" />
+<Field Token="67109235" Name="value__" />
+<Field Token="67109236" Name="Top" />
+<Field Token="67109237" Name="Middle" />
+<Field Token="67109238" Name="Bottom" />
+<Type Token="33554471" Name="SplitByte.CaptionOrizontalAlign" />
+<Field Token="67109239" Name="value__" />
+<Field Token="67109240" Name="Left" />
+<Field Token="67109241" Name="Center" />
+<Field Token="67109242" Name="Right" />
+<Type Token="33554472" Name="SplitByte.OwnerDrawnComboBox" />
+<Method Token="100663603" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663604" Name="get_DropDownBorderColor" Variables="this;" ParamCnt="1" />
+<Method Token="100663605" Name="set_DropDownBorderColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663606" Name="get_DropDownBackColor" Variables="this;" ParamCnt="1" />
+<Method Token="100663607" Name="set_DropDownBackColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663608" Name="OnPaint" Variables="this;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="2" />
+<Method Token="100663609" Name="OnDrawItem" Variables="this;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;" ParamCnt="2" />
+<Method Token="100663610" Name="OnKeyDown" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663611" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109243" Name="&lt;DropDownBorderColor&gt;k__BackingField" />
+<Field Token="67109244" Name="&lt;DropDownBackColor&gt;k__BackingField" />
+<Type Token="33554473" Name="SplitByte.Program" />
+<Method Token="100663612" Name="FreeConsole" Variables="" ParamCnt="0" />
+<Method Token="100663613" Name="AttachConsole" Variables="dwProcessId;" ParamCnt="1" />
+<Method Token="100663614" Name="AllocConsole" Variables="" ParamCnt="0" />
+<Method Token="100663615" Name="Main" Variables="args;V_0;" ParamCnt="1" />
+<Field Token="67109245" Name="ATTACH_PARENT_PROCESS" />
+<Field Token="67109246" Name="ERROR_ACCESS_DENIED" />
+<Type Token="33554474" Name="SplitByte.ShutdownHelper" />
+<Method Token="100663616" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663617" Name="Hibernate" Variables="" ParamCnt="0" />
+<Method Token="100663618" Name="Sleep" Variables="" ParamCnt="0" />
+<Method Token="100663619" Name="LockWorkStation" Variables="" ParamCnt="0" />
+<Method Token="100663620" Name="ExitWindowsEx" Variables="uFlags;dwReason;" ParamCnt="2" />
+<Method Token="100663621" Name="Shutdown" Variables="" ParamCnt="0" />
+<Method Token="100663622" Name="Restart" Variables="" ParamCnt="0" />
+<Method Token="100663623" Name="Logoff" Variables="" ParamCnt="0" />
+<Method Token="100663624" Name="Lock" Variables="" ParamCnt="0" />
+<Type Token="33554475" Name="SplitByte.ucTextProgressBar" />
+<Method Token="100663625" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663626" Name="SetText" Variables="this;str;" ParamCnt="2" />
+<Method Token="100663627" Name="UpdatePercentage" Variables="this;V_0;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663628" Name="zOnPaint" Variables="this;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="2" />
+<Method Token="100663629" Name="WndProc" Variables="this;m;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663630" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663631" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109247" Name="lblText" />
+<Field Token="67109248" Name="WmPaint" />
+<Field Token="67109249" Name="components" />
+<Type Token="33554476" Name="SplitByte.UpdateHelper" />
+<Method Token="100663632" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663633" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663634" Name="InitializeCheckVersionWeek" Variables="V_0;V_1;V_2;V_3;V_4;V_5;V_6;" ParamCnt="0" />
+<Method Token="100663635" Name="InitializeCheckVersion" Variables="" ParamCnt="0" />
+<Method Token="100663636" Name="bwCheckVersion_ProgressChanged" Variables="sender;e;V_0;" ParamCnt="2" />
+<Method Token="100663637" Name="bwCheckVersion_RunWorkerCompleted" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663638" Name="bwCheckVersion_DoWork" Variables="sender;e;V_0;" ParamCnt="2" />
+<Method Token="100663639" Name="CheckVersionBackground" Variables="V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;" ParamCnt="0" />
+<Method Token="100663640" Name="DownloadPage" Variables="uri;V_0;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663641" Name="CheckVersion" Variables="onstart;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;" ParamCnt="1" />
+<Field Token="67109250" Name="bwCheckVersion" />
+<Type Token="33554477" Name="SplitByte.CheckVersionResult" />
+<Method Token="100663642" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109251" Name="NewVersionReleased" />
+<Field Token="67109252" Name="ItIsNecessaryToUpdate" />
+<Field Token="67109253" Name="OutputMessage" />
+<Type Token="33554478" Name="SplitByte.URLLinkLabel" />
+<Method Token="100663643" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663644" Name="OnClick" Variables="this;e;" ParamCnt="2" />
+<Type Token="33554479" Name="SplitByte.RadioButtonToolTip" />
+<Method Token="100663645" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663646" Name="OnMouseHover" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663647" Name="ChildReallyVisible" Variables="this;child;V_0;" ParamCnt="2" />
+<Field Token="67109254" Name="tooltip" />
+<Type Token="33554480" Name="SplitByte.RegistryHelper" />
+<Method Token="100663648" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663649" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663650" Name="FillComboBoxWithValues" Variables="cmb;cmbkey;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="2" />
+<Method Token="100663651" Name="GetKeyValue" Variables="keystr;V_0;" ParamCnt="1" />
+<Method Token="100663652" Name="SetKeyValue" Variables="keystr;keyvalue;V_0;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663653" Name="AddValueToComboBox" Variables="cmb;cmbkey;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;" ParamCnt="2" />
+<Method Token="100663654" Name="FixRegistry" Variables="V_0;V_1;" ParamCnt="0" />
+<Field Token="67109255" Name="AddingCombo" />
+<Type Token="33554481" Name="SplitByte.ResFlags" />
+<Method Token="100663655" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663656" Name="get_ResourceManager" Variables="" ParamCnt="0" />
+<Method Token="100663657" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663658" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663659" Name="get_flag_albania" Variables="" ParamCnt="0" />
+<Method Token="100663660" Name="get_flag_belarus" Variables="" ParamCnt="0" />
+<Method Token="100663661" Name="get_flag_bulgaria" Variables="" ParamCnt="0" />
+<Method Token="100663662" Name="get_flag_china" Variables="" ParamCnt="0" />
+<Method Token="100663663" Name="get_flag_croatia" Variables="" ParamCnt="0" />
+<Method Token="100663664" Name="get_flag_czech_republic" Variables="" ParamCnt="0" />
+<Method Token="100663665" Name="get_flag_denmark" Variables="" ParamCnt="0" />
+<Method Token="100663666" Name="get_flag_estonia" Variables="" ParamCnt="0" />
+<Method Token="100663667" Name="get_flag_finland" Variables="" ParamCnt="0" />
+<Method Token="100663668" Name="get_flag_france" Variables="" ParamCnt="0" />
+<Method Token="100663669" Name="get_flag_georgia" Variables="" ParamCnt="0" />
+<Method Token="100663670" Name="get_flag_germany" Variables="" ParamCnt="0" />
+<Method Token="100663671" Name="get_flag_great_britain" Variables="" ParamCnt="0" />
+<Method Token="100663672" Name="get_flag_greece" Variables="" ParamCnt="0" />
+<Method Token="100663673" Name="get_flag_hungary" Variables="" ParamCnt="0" />
+<Method Token="100663674" Name="get_flag_iceland" Variables="" ParamCnt="0" />
+<Method Token="100663675" Name="get_flag_india" Variables="" ParamCnt="0" />
+<Method Token="100663676" Name="get_flag_indonesia" Variables="" ParamCnt="0" />
+<Method Token="100663677" Name="get_flag_iran" Variables="" ParamCnt="0" />
+<Method Token="100663678" Name="get_flag_ireland" Variables="" ParamCnt="0" />
+<Method Token="100663679" Name="get_flag_israel" Variables="" ParamCnt="0" />
+<Method Token="100663680" Name="get_flag_italy" Variables="" ParamCnt="0" />
+<Method Token="100663681" Name="get_flag_japan" Variables="" ParamCnt="0" />
+<Method Token="100663682" Name="get_flag_kenya" Variables="" ParamCnt="0" />
+<Method Token="100663683" Name="get_flag_latvia" Variables="" ParamCnt="0" />
+<Method Token="100663684" Name="get_flag_lithuania" Variables="" ParamCnt="0" />
+<Method Token="100663685" Name="get_flag_netherlands" Variables="" ParamCnt="0" />
+<Method Token="100663686" Name="get_flag_norway" Variables="" ParamCnt="0" />
+<Method Token="100663687" Name="get_flag_pakistan" Variables="" ParamCnt="0" />
+<Method Token="100663688" Name="get_flag_philippines" Variables="" ParamCnt="0" />
+<Method Token="100663689" Name="get_flag_poland" Variables="" ParamCnt="0" />
+<Method Token="100663690" Name="get_flag_portugal" Variables="" ParamCnt="0" />
+<Method Token="100663691" Name="get_flag_romania" Variables="" ParamCnt="0" />
+<Method Token="100663692" Name="get_flag_russia" Variables="" ParamCnt="0" />
+<Method Token="100663693" Name="get_flag_saudi_arabia" Variables="" ParamCnt="0" />
+<Method Token="100663694" Name="get_flag_serbia_montenegro" Variables="" ParamCnt="0" />
+<Method Token="100663695" Name="get_flag_slovakia" Variables="" ParamCnt="0" />
+<Method Token="100663696" Name="get_flag_slovenia" Variables="" ParamCnt="0" />
+<Method Token="100663697" Name="get_flag_south_africa" Variables="" ParamCnt="0" />
+<Method Token="100663698" Name="get_flag_south_korea" Variables="" ParamCnt="0" />
+<Method Token="100663699" Name="get_flag_spain" Variables="" ParamCnt="0" />
+<Method Token="100663700" Name="get_flag_sweden" Variables="" ParamCnt="0" />
+<Method Token="100663701" Name="get_flag_taiwan" Variables="" ParamCnt="0" />
+<Method Token="100663702" Name="get_flag_thailand" Variables="" ParamCnt="0" />
+<Method Token="100663703" Name="get_flag_turkey" Variables="" ParamCnt="0" />
+<Method Token="100663704" Name="get_flag_ukraine" Variables="" ParamCnt="0" />
+<Method Token="100663705" Name="get_flag_vietnam" Variables="" ParamCnt="0" />
+<Field Token="67109256" Name="resourceMan" />
+<Field Token="67109257" Name="resourceCulture" />
+<Type Token="33554482" Name="SplitByte.ResTranslate" />
+<Method Token="100663706" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663707" Name="get_ResourceManager" Variables="" ParamCnt="0" />
+<Method Token="100663708" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663709" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663710" Name="get__Custom_" Variables="" ParamCnt="0" />
+<Method Token="100663711" Name="get__Join" Variables="" ParamCnt="0" />
+<Method Token="100663712" Name="get__Split" Variables="" ParamCnt="0" />
+<Method Token="100663713" Name="get_A_new_version_has_been_released__Press_the_OK_button_to_download_the_new_version" Variables="" ParamCnt="0" />
+<Method Token="100663714" Name="get_A_new_version_has_been_released__Would_you_like_to_download_it_now__" Variables="" ParamCnt="0" />
+<Method Token="100663715" Name="get_An_error_occured__" Variables="" ParamCnt="0" />
+<Method Token="100663716" Name="get_Change_PDF_Properties" Variables="" ParamCnt="0" />
+<Method Token="100663717" Name="get_Do_Nothing" Variables="" ParamCnt="0" />
+<Method Token="100663718" Name="get_Download" Variables="" ParamCnt="0" />
+<Method Token="100663719" Name="get_Download_new_version__" Variables="" ParamCnt="0" />
+<Method Token="100663720" Name="get_Emails_were_successfully_sent__" Variables="" ParamCnt="0" />
+<Method Token="100663721" Name="get_Error__Could_not_run_new_Setup_File__" Variables="" ParamCnt="0" />
+<Method Token="100663722" Name="get_Error__Could_not_send_Questionnaire__" Variables="" ParamCnt="0" />
+<Method Token="100663723" Name="get_Error__Setup_File_was_not_downloaded_correctly__" Variables="" ParamCnt="0" />
+<Method Token="100663724" Name="get_Error_Could_not_change_Language__" Variables="" ParamCnt="0" />
+<Method Token="100663725" Name="get_Error_could_not_Decrypt_File__Wrong_Password__" Variables="" ParamCnt="0" />
+<Method Token="100663726" Name="get_Error_could_not_encrypt_File__" Variables="" ParamCnt="0" />
+<Method Token="100663727" Name="get_Error_could_not_parse_Arguments__" Variables="" ParamCnt="0" />
+<Method Token="100663728" Name="get_Error_could_not_read_File__" Variables="" ParamCnt="0" />
+<Method Token="100663729" Name="get_Error_could_not_read_from_Registry__" Variables="" ParamCnt="0" />
+<Method Token="100663730" Name="get_Error_Could_not_set_Update_Proxy__" Variables="" ParamCnt="0" />
+<Method Token="100663731" Name="get_Error_could_not_write_to_Registry__" Variables="" ParamCnt="0" />
+<Method Token="100663732" Name="get_Exit_Application" Variables="" ParamCnt="0" />
+<Method Token="100663733" Name="get_Explore_Output_File" Variables="" ParamCnt="0" />
+<Method Token="100663734" Name="get_File" Variables="" ParamCnt="0" />
+<Method Token="100663735" Name="get_File_does_not_exist__" Variables="" ParamCnt="0" />
+<Method Token="100663736" Name="get_File_was_Split_Successfully__" Variables="" ParamCnt="0" />
+<Method Token="100663737" Name="get_Files_were_Joined_Successfully__" Variables="" ParamCnt="0" />
+<Method Token="100663738" Name="get_Hibernate" Variables="" ParamCnt="0" />
+<Method Token="100663739" Name="get_It_is_necessary_to_upgrade_to_the_latest_version_of_the_application__Press_the_OK_button_to_download_the_new_version" Variables="" ParamCnt="0" />
+<Method Token="100663740" Name="get_Join_Files_with_Split_Byte" Variables="" ParamCnt="0" />
+<Method Token="100663741" Name="get_Lock_Workstation" Variables="" ParamCnt="0" />
+<Method Token="100663742" Name="get_Logoff" Variables="" ParamCnt="0" />
+<Method Token="100663743" Name="get_Operation_completed_successfully__" Variables="" ParamCnt="0" />
+<Method Token="100663744" Name="get_Operation_was_Cancelled__" Variables="" ParamCnt="0" />
+<Method Token="100663745" Name="get_OUPTUT_" Variables="" ParamCnt="0" />
+<Method Token="100663746" Name="get_Please_fill_out_the_Questionnaire__" Variables="" ParamCnt="0" />
+<Method Token="100663747" Name="get_Please_insert_a_valid_New_File_Path__" Variables="" ParamCnt="0" />
+<Method Token="100663748" Name="get_Please_insert_an_Encryption_Password__" Variables="" ParamCnt="0" />
+<Method Token="100663749" Name="get_Please_specify_a_desired_file_size_of_the_split_parts__or_the_number_of_parts_the_file_should_be_splitted__n" Variables="" ParamCnt="0" />
+<Method Token="100663750" Name="get_Please_specify_a_Join_Output_Filename__" Variables="" ParamCnt="0" />
+<Method Token="100663751" Name="get_Please_specify_a_Password__" Variables="" ParamCnt="0" />
+<Method Token="100663752" Name="get_Please_specify_a_Port_Number__" Variables="" ParamCnt="0" />
+<Method Token="100663753" Name="get_Please_specify_a_Recipient_Email_Address" Variables="" ParamCnt="0" />
+<Method Token="100663754" Name="get_Please_specify_a_split_parts_output_folder__" Variables="" ParamCnt="0" />
+<Method Token="100663755" Name="get_Please_specify_a_Username__" Variables="" ParamCnt="0" />
+<Method Token="100663756" Name="get_Please_specify_a_valid_Destination_Folder__" Variables="" ParamCnt="0" />
+<Method Token="100663757" Name="get_Please_specify_a_valid_File__" Variables="" ParamCnt="0" />
+<Method Token="100663758" Name="get_Please_specify_a_valid_File_to_Split__" Variables="" ParamCnt="0" />
+<Method Token="100663759" Name="get_Please_specify_a_valid_First_Split_Part_File__" Variables="" ParamCnt="0" />
+<Method Token="100663760" Name="get_Please_specify_a_valid_Output_File__" Variables="" ParamCnt="0" />
+<Method Token="100663761" Name="get_Please_specify_a_valid_Server_Port__" Variables="" ParamCnt="0" />
+<Method Token="100663762" Name="get_Please_specify_a_valid_split_and_join_file__" Variables="" ParamCnt="0" />
+<Method Token="100663763" Name="get_Please_specify_a_valid_Split_File_Output_Folder__" Variables="" ParamCnt="0" />
+<Method Token="100663764" Name="get_Please_specify_a_valid_Split_File_Size__" Variables="" ParamCnt="0" />
+<Method Token="100663765" Name="get_Please_specify_a_valid_Split_Input_File__" Variables="" ParamCnt="0" />
+<Method Token="100663766" Name="get_Please_specify_an_Account_Name__" Variables="" ParamCnt="0" />
+<Method Token="100663767" Name="get_Please_specify_an_Email_Account_to_use" Variables="" ParamCnt="0" />
+<Method Token="100663768" Name="get_Please_specify_an_Email_Address__" Variables="" ParamCnt="0" />
+<Method Token="100663769" Name="get_Please_specify_an_existing_File_to_Split__" Variables="" ParamCnt="0" />
+<Method Token="100663770" Name="get_Please_specify_an_Interval_in_Seconds_between_Emails" Variables="" ParamCnt="0" />
+<Method Token="100663771" Name="get_Please_specify_an_Outgoing_Server__" Variables="" ParamCnt="0" />
+<Method Token="100663772" Name="get_Please_specify_Files_to_Join__" Variables="" ParamCnt="0" />
+<Method Token="100663773" Name="get_Please_specify_if_the_Split_File_Size_will_be_Bytes__Mega_Bytes_e_t_c_" Variables="" ParamCnt="0" />
+<Method Token="100663774" Name="get_Please_specify_whether_to_split_or_join_the_file__" Variables="" ParamCnt="0" />
+<Method Token="100663775" Name="get_Restart" Variables="" ParamCnt="0" />
+<Method Token="100663776" Name="get_Shutdown" Variables="" ParamCnt="0" />
+<Method Token="100663777" Name="get_Sleep" Variables="" ParamCnt="0" />
+<Method Token="100663778" Name="get_Split_File_with_Split_Byte" Variables="" ParamCnt="0" />
+<Method Token="100663779" Name="get_Submission_was_cancelled__" Variables="" ParamCnt="0" />
+<Method Token="100663780" Name="get_The_application_will_now_exit_and_run_the_updated_setup_file" Variables="" ParamCnt="0" />
+<Method Token="100663781" Name="get_The_two_Files_have_different_MD5_Checksum_Signatures__" Variables="" ParamCnt="0" />
+<Method Token="100663782" Name="get_The_two_Files_have_the_same_MD5_Checksum_Signatures__" Variables="" ParamCnt="0" />
+<Method Token="100663783" Name="get_This_is_the_latest_version__" Variables="" ParamCnt="0" />
+<Method Token="100663784" Name="get_Unspecified_Error" Variables="" ParamCnt="0" />
+<Field Token="67109258" Name="resourceMan" />
+<Field Token="67109259" Name="resourceCulture" />
+<Type Token="33554483" Name="SplitByte.SplitHelper" />
+<Method Token="100663785" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663786" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663787" Name="SplitFile" Variables="inputFile;chunkSize;split_equal_parts;equal_parts_num;path;patternind;delete_after_split;keep_timestamp;timestamp_created;timestamp_lastupdated;compress;encrypt;encryption_password;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;" ParamCnt="13" />
+<Method Token="100663788" Name="GetSplitFilepath" Variables="patternind;inputFile;path;index;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;" ParamCnt="4" />
+<Field Token="67109260" Name="FirstSplitPartFilePath" />
+<Field Token="67109261" Name="LastSplitFiles" />
+<Type Token="33554484" Name="SplitByte.ProgressChange" />
+<Method Token="100663789" Name=".ctor" Variables="this;chunknum;elapsed;" ParamCnt="3" />
+<Field Token="67109262" Name="ChunkNum" />
+<Field Token="67109263" Name="Elapsed" />
+<Type Token="33554485" Name="SplitByte.GetSplitFilepathResult" />
+<Method Token="100663790" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109264" Name="Skip" />
+<Field Token="67109265" Name="SplitFilepath" />
+<Type Token="33554486" Name="SplitByte.TranslateHelper" />
+<Method Token="100663791" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663792" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663793" Name="Translate" Variables="str;V_0;V_1;V_2;" ParamCnt="1" />
+<Field Token="67109266" Name="rm" />
+<Type Token="33554487" Name="SplitByte.Properties.Resources" />
+<Method Token="100663794" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663795" Name="get_ResourceManager" Variables="" ParamCnt="0" />
+<Method Token="100663796" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663797" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663798" Name="get__4dots_logo_official" Variables="" ParamCnt="0" />
+<Method Token="100663799" Name="get_about" Variables="" ParamCnt="0" />
+<Method Token="100663800" Name="get_add" Variables="" ParamCnt="0" />
+<Method Token="100663801" Name="get_arrow_right_green" Variables="" ParamCnt="0" />
+<Method Token="100663802" Name="get_arrow_right_green1" Variables="" ParamCnt="0" />
+<Method Token="100663803" Name="get_bullet_ball_glass_blue" Variables="" ParamCnt="0" />
+<Method Token="100663804" Name="get_bullet_ball_glass_red" Variables="" ParamCnt="0" />
+<Method Token="100663805" Name="get_check" Variables="" ParamCnt="0" />
+<Method Token="100663806" Name="get_copy" Variables="" ParamCnt="0" />
+<Method Token="100663807" Name="get_delete" Variables="" ParamCnt="0" />
+<Method Token="100663808" Name="get_disk_blue" Variables="" ParamCnt="0" />
+<Method Token="100663809" Name="get_edit" Variables="" ParamCnt="0" />
+<Method Token="100663810" Name="get_exit" Variables="" ParamCnt="0" />
+<Method Token="100663811" Name="get_flash" Variables="" ParamCnt="0" />
+<Method Token="100663812" Name="get_folder" Variables="" ParamCnt="0" />
+<Method Token="100663813" Name="get_help2" Variables="" ParamCnt="0" />
+<Method Token="100663814" Name="get_information" Variables="" ParamCnt="0" />
+<Method Token="100663815" Name="get_information1" Variables="" ParamCnt="0" />
+<Method Token="100663816" Name="get_join_file_48" Variables="" ParamCnt="0" />
+<Method Token="100663817" Name="get_split_file_48" Variables="" ParamCnt="0" />
+<Method Token="100663818" Name="get_split_file_transp_48b" Variables="" ParamCnt="0" />
+<Method Token="100663819" Name="get_view" Variables="" ParamCnt="0" />
+<Field Token="67109267" Name="resourceMan" />
+<Field Token="67109268" Name="resourceCulture" />
+<Type Token="33554488" Name="SplitByte.Properties.Settings" />
+<Method Token="100663820" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663821" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663822" Name="get_Default" Variables="" ParamCnt="0" />
+<Field Token="67109269" Name="defaultInstance" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663306" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>

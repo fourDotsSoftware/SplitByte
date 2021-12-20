@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Please specify a valid split and join file !" xml:space="preserve">
+    <value>Please specify a valid split and join file !</value>
+  </data>
+  <data name="Please specify an existing File to Split !" xml:space="preserve">
+    <value>Please specify an existing File to Split !</value>
+  </data>
+  <data name="Please specify a split parts output folder !" xml:space="preserve">
+    <value>Please specify a split parts output folder !</value>
+  </data>
+  <data name="Please specify a Join Output Filename !" xml:space="preserve">
+    <value>Please specify a Join Output Filename !</value>
+  </data>
+  <data name="Please specify a desired file size of the split parts, or the number of parts the file should be splitted.\n" xml:space="preserve">
+    <value>Please specify a desired file size of the split parts, or the number of parts the file should be splitted.\n</value>
+  </data>
+  <data name="Please specify whether to split or join the file !" xml:space="preserve">
+    <value>Please specify whether to split or join the file !</value>
+  </data>
+  <data name="Operation completed successfully !" xml:space="preserve">
+    <value>Operation completed successfully !</value>
+  </data>
+  <data name="OUPTUT:" xml:space="preserve">
+    <value>OUPTUT:</value>
+  </data>
+  <data name="Error could not parse Arguments !" xml:space="preserve">
+    <value>Error could not parse Arguments !</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="Error could not read File !" xml:space="preserve">
+    <value>Error could not read File !</value>
+  </data>
+  <data name="Error could not Decrypt File. Wrong Password ?" xml:space="preserve">
+    <value>Error could not Decrypt File. Wrong Password ?</value>
+  </data>
+  <data name="Error could not encrypt File !" xml:space="preserve">
+    <value>Error could not encrypt File !</value>
+  </data>
+  <data name="Unspecified Error" xml:space="preserve">
+    <value>Unspecified Error</value>
+  </data>
+  <data name="Error could not read from Registry !" xml:space="preserve">
+    <value>Error could not read from Registry !</value>
+  </data>
+  <data name="Emails were successfully sent !" xml:space="preserve">
+    <value>Emails were successfully sent !</value>
+  </data>
+  <data name="Submission was cancelled !" xml:space="preserve">
+    <value>Submission was cancelled !</value>
+  </data>
+  <data name="Please specify an Email Account to use" xml:space="preserve">
+    <value>Please specify an Email Account to use</value>
+  </data>
+  <data name="Please specify a Recipient Email Address" xml:space="preserve">
+    <value>Please specify a Recipient Email Address</value>
+  </data>
+  <data name="File" xml:space="preserve">
+    <value>File</value>
+  </data>
+  <data name="Please specify an Account Name !" xml:space="preserve">
+    <value>Please specify an Account Name !</value>
+  </data>
+  <data name="Please specify an Outgoing Server !" xml:space="preserve">
+    <value>Please specify an Outgoing Server !</value>
+  </data>
+  <data name="Please specify an Email Address !" xml:space="preserve">
+    <value>Please specify an Email Address !</value>
+  </data>
+  <data name="Please specify a Port Number !" xml:space="preserve">
+    <value>Please specify a Port Number !</value>
+  </data>
+  <data name="Please specify a valid Server Port !" xml:space="preserve">
+    <value>Please specify a valid Server Port !</value>
+  </data>
+  <data name="Please specify an Interval in Seconds between Emails" xml:space="preserve">
+    <value>Please specify an Interval in Seconds between Emails</value>
+  </data>
+  <data name="Please specify a Username !" xml:space="preserve">
+    <value>Please specify a Username !</value>
+  </data>
+  <data name="Please specify a Password !" xml:space="preserve">
+    <value>Please specify a Password !</value>
+  </data>
+  <data name="Error could not write to Registry !" xml:space="preserve">
+    <value>Error could not write to Registry !</value>
+  </data>
+  <data name="Please insert an Encryption Password !" xml:space="preserve">
+    <value>Please insert an Encryption Password !</value>
+  </data>
+  <data name="Error Could not change Language !" xml:space="preserve">
+    <value>Error Could not change Language !</value>
+  </data>
+  <data name="Split File with Split Byte" xml:space="preserve">
+    <value>Split File with Split Byte</value>
+  </data>
+  <data name="Join Files with Split Byte" xml:space="preserve">
+    <value>Join Files with Split Byte</value>
+  </data>
+  <data name="Change PDF Properties" xml:space="preserve">
+    <value>Change PDF Properties</value>
+  </data>
+  <data name="Please specify a valid File to Split !" xml:space="preserve">
+    <value>Please specify a valid File to Split !</value>
+  </data>
+  <data name="Please specify a valid Destination Folder !" xml:space="preserve">
+    <value>Please specify a valid Destination Folder !</value>
+  </data>
+  <data name="Please specify a valid Split File Size !" xml:space="preserve">
+    <value>Please specify a valid Split File Size !</value>
+  </data>
+  <data name="Please specify if the Split File Size will be Bytes, Mega Bytes e.t.c." xml:space="preserve">
+    <value>Please specify if the Split File Size will be Bytes, Mega Bytes e.t.c.</value>
+  </data>
+  <data name="Please specify a valid First Split Part File !" xml:space="preserve">
+    <value>Please specify a valid First Split Part File !</value>
+  </data>
+  <data name="Please specify a valid Output File !" xml:space="preserve">
+    <value>Please specify a valid Output File !</value>
+  </data>
+  <data name="Files were Joined Successfully !" xml:space="preserve">
+    <value>Files were Joined Successfully !</value>
+  </data>
+  <data name="File was Split Successfully !" xml:space="preserve">
+    <value>File was Split Successfully !</value>
+  </data>
+  <data name="Please specify a valid File !" xml:space="preserve">
+    <value>Please specify a valid File !</value>
+  </data>
+  <data name="The two Files have different MD5 Checksum Signatures !" xml:space="preserve">
+    <value>The two Files have different MD5 Checksum Signatures !</value>
+  </data>
+  <data name="The two Files have the same MD5 Checksum Signatures !" xml:space="preserve">
+    <value>The two Files have the same MD5 Checksum Signatures !</value>
+  </data>
+  <data name="Please specify a valid Split Input File !" xml:space="preserve">
+    <value>Please specify a valid Split Input File !</value>
+  </data>
+  <data name="Please specify a valid Split File Output Folder !" xml:space="preserve">
+    <value>Please specify a valid Split File Output Folder !</value>
+  </data>
+  <data name="Operation was Cancelled !" xml:space="preserve">
+    <value>Operation was Cancelled !</value>
+  </data>
+  <data name="Error Could not set Update Proxy !" xml:space="preserve">
+    <value>Error Could not set Update Proxy !</value>
+  </data>
+  <data name="&lt;Custom&gt;" xml:space="preserve">
+    <value>&lt;Custom&gt;</value>
+  </data>
+  <data name="An error occured !" xml:space="preserve">
+    <value>An error occured !</value>
+  </data>
+  <data name="&amp;Split" xml:space="preserve">
+    <value>&amp;Split</value>
+  </data>
+  <data name="&amp;Join" xml:space="preserve">
+    <value>&amp;Join</value>
+  </data>
+  <data name="Please insert a valid New File Path !" xml:space="preserve">
+    <value>Please insert a valid New File Path !</value>
+  </data>
+  <data name="Please specify Files to Join !" xml:space="preserve">
+    <value>Please specify Files to Join !</value>
+  </data>
+  <data name="File does not exist !" xml:space="preserve">
+    <value>File does not exist !</value>
+  </data>
+  <data name="Please fill out the Questionnaire !" xml:space="preserve">
+    <value>Please fill out the Questionnaire !</value>
+  </data>
+  <data name="Error. Could not send Questionnaire !" xml:space="preserve">
+    <value>Error. Could not send Questionnaire !</value>
+  </data>
+  <data name="A new version has been released. Press the OK button to download the new version" xml:space="preserve">
+    <value>A new version has been released. Press the OK button to download the new version</value>
+  </data>
+  <data name="A new version has been released. Would you like to download it now ?" xml:space="preserve">
+    <value>A new version has been released. Would you like to download it now ?</value>
+  </data>
+  <data name="Download new version ?" xml:space="preserve">
+    <value>Download new version ?</value>
+  </data>
+  <data name="Error. Could not run new Setup File !" xml:space="preserve">
+    <value>Error. Could not run new Setup File !</value>
+  </data>
+  <data name="Error. Setup File was not downloaded correctly !" xml:space="preserve">
+    <value>Error. Setup File was not downloaded correctly !</value>
+  </data>
+  <data name="It is necessary to upgrade to the latest version of the application. Press the OK button to download the new version" xml:space="preserve">
+    <value>It is necessary to upgrade to the latest version of the application. Press the OK button to download the new version</value>
+  </data>
+  <data name="The application will now exit and run the updated setup file" xml:space="preserve">
+    <value>The application will now exit and run the updated setup file</value>
+  </data>
+  <data name="This is the latest version !" xml:space="preserve">
+    <value>This is the latest version !</value>
+  </data>
+  <data name="Do Nothing" xml:space="preserve">
+    <value>Do Nothing</value>
+  </data>
+  <data name="Exit Application" xml:space="preserve">
+    <value>Exit Application</value>
+  </data>
+  <data name="Explore Output File" xml:space="preserve">
+    <value>Explore Output File</value>
+  </data>
+  <data name="Hibernate" xml:space="preserve">
+    <value>Hibernate</value>
+  </data>
+  <data name="Lock Workstation" xml:space="preserve">
+    <value>Lock Workstation</value>
+  </data>
+  <data name="Logoff" xml:space="preserve">
+    <value>Logoff</value>
+  </data>
+  <data name="Restart" xml:space="preserve">
+    <value>Restart</value>
+  </data>
+  <data name="Shutdown" xml:space="preserve">
+    <value>Shutdown</value>
+  </data>
+  <data name="Sleep" xml:space="preserve">
+    <value>Sleep</value>
+  </data>
+</root>
